@@ -1,5 +1,3 @@
-Digital Pāḷi Dictionary
-
 ## DPD Thanks
 
 Thank you, appreciation and _anumodana_ to the following people who have

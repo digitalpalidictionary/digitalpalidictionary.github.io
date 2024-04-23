@@ -1,5 +1,3 @@
-Digital Pāḷi Dictionary
-
 ## Bibliography
 
 ### Pāḷi Dictionaries

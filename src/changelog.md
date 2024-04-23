@@ -1,10 +1,23 @@
 # Changelog
 
+## 2024-04-24
+- 78 264 headwords, 32 733 complete, 17 185 partially complete, 28 346 incomplete entries
+- 749 roots, 3 253 root families, 32 310 words derived from roots
+- 731 448 deconstructed compounds
+- 1 592 645 unique inflected forms recognized
+- 1 664 915 cells of Pāḷi word data
+- 19 647 cells of Pāḷi root data
+- 100% dictionary recognition in the early texts
+- CSS and JS reduced to external files, thanks to [@bergentroll](https://github.com/bergentroll) and [@windwerfer](https://github.com/windwerfer)
+- numerous additions and corrections based on user feedback
+
+**new words include**: akāraṇena, aggihutamissa, aggohamasmi, acchinditvā 3, aṭṭhāpada, aṭṭhita 1.4, aḍḍha 1.2, aḍḍhuḍḍhapāṭihāriyasahassa, atireka 3, anucaṅkamati 2, anta 3, anvayatā, apakassitvā, aparimuttatta, aputtakatā, appalābha 2, appāhāratā 2, abhabba 3, abhikkamanīya, abhinimmini, amanāpa 2, ayyā 2, arañji, arahattamaggasamāpanna, avacchādita, avikampamāna 2, aṃsu 2, ākirati 3, ādātuṃ 2, āpatha, ārabhituṃ 2, āropetvā 6, āvaṭa 3, āvuta 2.2, āsaka, isidatta 2, ukkhepa 3, uddissakata 2, uddharitvā 4, uposathaṃ upavasati, uppaṇḍuka, ummujjananimujjana, uruvelapāṭihāriya, uruvelavāsi, uḷupa, ekanahuta, ekapuṇḍarīka 3, ekādasanahuta, ettha mayaṃ anassāma, evamupari 2, katāvī 2, kappanahuta, kappiyasaññā, kalyāṇakamma 2, kāsī, kāḷamegha, kāḷameghaavacchādita, kumārī 2, kurunta, kulasantaka, kesamissa, koṭika 3, korabya 1, khatā, khārikājamissa, gantabba 2, guhādassanāya, gopaka 2, ghaṭṭesi 2, cakkhuṃ bandhante janassa dassanāya, catutthabhāga, carapire, cātuddisā, cittīkata 2, chavi 3, jaṭāmissa, jeṭṭhohamasmi, ñāṇavisaya, takkī 1, tatiyabhāṇavāra, tathāpi 1, tanu 5, tanutara 2, taṃ sārato paccāgacchati, timisā, dakkhiti 2, dasadhammavidū, dasasataparivāra, divākathika, dutiyikā 2, dhārenta 2, nattaka 2.1, nāññesaṃ, nāpagata 2, nāsadi 2, niggaṇhāti 3, nidassita 2, nimittaṃ aggahesi, nimujjāpeti, nihita 4, neti 1.3, neso 2, pakatiyā, pakāraka, paccāgacchati 2, paccūsakathika, pañcamandāmukhisata, pañcahaṅgehi, paṭṭhapetabba, padhāniya 2, paputtaka, pabbāheti, pabhāva 2, pariccajituṃ 2, parijjhāyati, paripūrita 2, paripūrita 3, paripūretuṃ 2, pariyantakata 2, pasupati 2.1, pahaṃsati, pahaṃsayati, pahaṃsita, pahaṃsitvā 1, pahaṃsitvā 2, pahaṃsitvāna, pahaṃseti, pahiṇāti 2, pāka 3, pāpita 2.1, puttanattakā, puttamatā, purāṇa 1, purāṇa 7, purāṇajaṭila, pharati 4, phāsumakāsi, phegguka, bandhati 5, bimbisārappamukha, bimbisārasamāgamakathā, bhassanta 2, bhājanahattha, bhāsitvā 2.1, maggā okkamma, maghadeva 1, mata 1.3, mandāmukhisata, maraṇaṃ nigacchati, mahimāvasanta, migava 3, missa 2, mukhaṃ, yatohaṃ, yasmā 2, yojetvā 4, rajjaṃ paṭipajjati, ratha 1.2, rūḷha 2, ropāpetvā, laṭṭhivana, lātabba, vaḍḍhesi 1, vaṇṇeti 2, vadhita 2, vasana 2.2, vāta 2, vikujjita 2, vicikiccha, vijinitvā, vijinitvāna, vitthiṇṇa, vippasanna 3, visama 6, visāta, vedhabyā, voropetar, sakamma 3, sakula 1.1, sakula 1.2, sakula 2.1, sakkatvā 2, saṅkucita 2, santhāraka 2, sabbathāmena, sama 1.6, samavisama 2, sametar, sampanna 6, sampāpakatta, sampāpuṇituṃ 2, sambhuṇanta, sambhuṇāti, sammādiṭṭhī, saraṇamāgamā, savaṇṇa 2, sassa 2, sahāyikā, saṃvibhatta 2, saṃhaṭa 2, saṃhari 2, sāriputtamoggallānapabbajjākathā, sāvakohamasmi, siṅgīnikkhasuvaṇṇa, siddhi 2, sīlamaya 2, sumantita, sekhāsekha, seṭṭhohamasmi, sela 5, sodheti 4, sodhenta 2, sopāna 3, hatthatthaṃ gacchanti, haritvā 2, hīna 6 [216]
+
 ## 2024-03-24
 - 78 048 headwords, 31 684 complete, 17 575 partially complete, 28 789 incomplete entries
 - 749 roots, 3 249 root families, 32 176 words derived from roots
 - 731 160 deconstructed compounds
-- 1 588 235 unique inflected forms recognised
+- 1 588 235 unique inflected forms recognized
 - 1 646 579 cells of Pāḷi word data
 - 19 662 cells of Pāḷi root data
 - 100% dictionary recognition in the early texts
@@ -28,7 +41,7 @@ sameti 2.3, sammukhībhāvaṃ adāsi, sammukhībhūta 2, sāmañña 2.2, sāmī
 - 77 871 headwords, 30 955 complete, 17 822 partially complete, 29 094 incomplete entries
 - 749 roots, 3 247 root families, 32 063 words derived from roots
 - 731 122 deconstructed compounds
-- 1 584 589 unique inflected forms recognised
+- 1 584 589 unique inflected forms recognized
 - 1 636 473 cells of Pāḷi word data
 - 18 173 cells of Pāḷi root data
 - 100% dictionary recognition in the early texts
@@ -51,7 +64,7 @@ sameti 2.3, sammukhībhāvaṃ adāsi, sammukhībhūta 2, sāmañña 2.2, sāmī
 - 77 776 headwords, 30 864 complete, 17 780 partially complete, 29 132 incomplete entries
 - 749 roots, 3 239 root families, 32 019 words derived from roots
 - 723 335 deconstructed compounds
-- 1 582 606 unique inflected forms recognised
+- 1 582 606 unique inflected forms recognized
 - 1 172 714 cells of Pāḷi word data
 - 18 173 cells of Pāḷi root data
 - 100% dictionary recognition up to and including Therīgāthā
@@ -111,7 +124,7 @@ sumanā 4, sumanā 5, sumedhā, surucira, suropita, suvaṇṇamaṇḍita, suvi
 - 77 113 headwords, 29 900 complete, 17 818 partially complete, 29 395 incomplete entries
 - 747 roots, 3 222 root families, 31 685 words derived from roots
 - 722 137 deconstructed compounds
-- 1 568 210 unique inflected forms recognised
+- 1 568 210 unique inflected forms recognized
 - 1 152 126 cells of Pāḷi word data
 - 18 124 cells of Pāḷi root data
 - 100% dictionary recognition up to and including Theragāthā
@@ -128,7 +141,7 @@ sumanā 4, sumanā 5, sumedhā, surucira, suropita, suvaṇṇamaṇḍita, suvi
 - 75 817 headwords, 28 935 complete, 17 418 partially complete, 29 464 incomplete entries
 - 746 roots, 3 205 root families, 31 211 words derived from roots
 - 723 963 deconstructed compounds
-- 1 536 962 unique inflected forms recognised
+- 1 536 962 unique inflected forms recognized
 - 1 119 333 cells of Pāḷi word data
 - 18 099 cells of Pāḷi root data
 - 100% dictionary recognition in the first two books of Vinaya, 4 Nikāyas, and Khuddakanikāya up to and including Suttanipāta
@@ -146,7 +159,7 @@ sumanā 4, sumanā 5, sumedhā, surucira, suropita, suvaṇṇamaṇḍita, suvi
 - 75 113 headwords, 28 322 complete, 17 281 partially complete, 29 510 incomplete entries
 - 746 roots, 3 183 root families, 30 927 words derived from roots
 - 714 323 deconstructed compounds
-- 1 520 321 unique inflected forms recognised
+- 1 520 321 unique inflected forms recognized
 - 1 101 906 cells of Pāḷi word data
 - 18 095 cells of Pāḷi root data
 - 100% dictionary recognition up to and including the first two books of Vinaya, 4 Nikāyas, and Khuddakanikāya up to and including the first vagga of Suttanipāta
@@ -158,7 +171,7 @@ sumanā 4, sumanā 5, sumedhā, surucira, suropita, suvaṇṇamaṇḍita, suvi
 - 74 657 headwords, 28 049 complete, 17 022 partially complete, 29 586 incomplete entries
 - 746 roots, 3 175 root families, 30 731 words derived from roots
 - 712 856 deconstructed compounds
-- 1 506 903 unique inflected forms recognised
+- 1 506 903 unique inflected forms recognized
 - 1 093 085 cells of Pāḷi word data
 - 18 095 cells of Pāḷi root data
 - 100% dictionary recognition up to and including the first two books of Vinaya, 4 Nikāyas, and Khuddakanikāya up to and including Udāna and Itivuttaka
@@ -173,7 +186,7 @@ sumanā 4, sumanā 5, sumedhā, surucira, suropita, suvaṇṇamaṇḍita, suvi
 - 74 177 headwords, 27 313 complete, 17 185 partially complete, 29 679 incomplete entries
 - 744 roots, 3 154 root families, 30 370 words derived from roots
 - 712 628 deconstructed compounds
-- 1 496 960 unique inflected forms recognised
+- 1 496 960 unique inflected forms recognized
 - 1 065 780 cells of Pāḷi word data
 - 18 047 cells of Pāḷi root data
 - 100% dictionary recognition up to and including the 4 Nikāyas, Khuddakapāṭha and Dhammapada
@@ -188,7 +201,7 @@ sumanā 4, sumanā 5, sumedhā, surucira, suropita, suvaṇṇamaṇḍita, suvi
 - 73 800 headwords, 27 073 complete, 17 126 partially complete, 29 601 incomplete entries
 - 744 roots, 3 143 root families, 30 191 words derived from roots
 - 713 251 deconstructed compounds
-- 1 488 142 unique inflected forms recognised
+- 1 488 142 unique inflected forms recognized
 - 1 059 431 cells of Pāḷi word data
 - 18 047 cells of Pāḷi root data
 - 100% dictionary recognition up to and including all four Nikāyas
