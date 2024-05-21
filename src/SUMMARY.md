@@ -12,6 +12,7 @@
 [Tipitaka Pali Reader](tpr.md)
 [The Buddha's Words](tbw.md)
 [Simsapa Dhamma Reader](simsampa.md)
+[Sutta Central](sutta_central.md)
 
 -----------
 
@@ -19,17 +20,17 @@
 [Install on Mac](install_mac.md)
 [Install on iOS](install_ios.md)
 [Install on Linux](install_linux.md)
-[Install on Android (DictTango)](install_android_dicttango.md)
-[Install on Android (GoldenDict)](install_android_goldendict.md)
-[Install on Android (MDict)](install_android_mdict.md)
+[Install on Android](install_android_dicttango.md)
+<!-- [Install on Android (GoldenDict)](install_android_goldendict.md) -->
+<!-- [Install on Android (MDict)](install_android_mdict.md) -->
 [Install on Kindle](kindle.md)
 [Update](update.md)
 
 -----------
 
-[Setup the Hotkey](setup_hotkey.md)
-[Setup the Scan Popup](setup_scan_popup.md)
-[Setup Advanced Features](setup_advanced.md)
+[GoldenDict: Setup the Hotkey](setup_hotkey.md)
+[GoldenDict: Setup the Scan Popup](setup_scan_popup.md)
+[GoldenDict: Setup Advanced Features](setup_advanced.md)
 
 -----------
 

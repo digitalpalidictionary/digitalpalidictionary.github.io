@@ -2,8 +2,8 @@
 
 ## In Brief
 
-1. download the latest version of DPD [here](https://github.com/digitalpalidictionary/digitalpalidictionary/releases)
-2. install version 1.5 of GoldenDict for [OS X 10.9 Mavericks onwards](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/MacOS/GoldenDict-1.5.0-RC2-372-gc3ff15f%28Qt_563%29.dmg/download) or [OS X 10.12 Sierra onwards](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/MacOS/GoldenDict-1.5.0-RC2-372-gc3ff15f%28Qt_5121%29.dmg/download)
+1. download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases)
+2. install GoldenDict NG for [Apple Silicon M1 chip and newer](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/GoldenDict-24.05.05-Qt6.7.0-arm64.dmg) or [Intel AMD64](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/GoldenDict-24.05.05-Qt6.7.0-x86_64.dmg)
 3. in settings, direct GoldenDict to the DPD folder.
 
 Below are detailed *anupubba* instructions. 
@@ -11,18 +11,18 @@ Below are detailed *anupubba* instructions.
 
 ## Download GoldenDict
 
-If you are using OS X 10.9 Mavericks or later [download this version of GoldenDict from Sourceforge](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/MacOS/GoldenDict-1.5.0-RC2-372-gc3ff15f%28Qt_563%29.dmg/download).
+If you are using an Apple Silicon M1 chip or newer, download [this version of GoldenDict NG from Github](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/GoldenDict-24.05.05-Qt6.7.0-arm64.dmg).
 
-If you are using OS X 10.12 Sierra or later [download this version of GoldenDict from Sourceforge](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/MacOS/GoldenDict-1.5.0-RC2-372-gc3ff15f%28Qt_5121%29.dmg/download). 
+If you are using an Intel AMD64 chip, download [this version of GoldenDict NG from Github](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/GoldenDict-24.05.05-Qt6.7.0-x86_64.dmg). 
 
-More information about the latest Mac version of GoldenDict is available [here](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
+<!-- More information about the latest Mac version of GoldenDict is available [here](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X). -->
 
 
 ## Install GoldenDict
 
-Double click the GoldenDict .dmg file in your Downloads folder.
+Double click the `GoldenDict.dmg` file in your Downloads folder.
 
-<img width="470" alt="download gd" src="pics/mac-install/download%20gd.png">
+<!-- <img width="470" alt="download gd" src="pics/mac-install/download%20gd.png"> -->
 
 Double click the installer.
 
@@ -46,7 +46,7 @@ Ok, you're installed. Now let's add a dictionary.
 
 ## Download DPD
 
-Download the latest version of Digital Pāḷi Dictionary for GoldenDict from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases) into your Downloads folder.
+Download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases). 
 
 ## Unzip
 
