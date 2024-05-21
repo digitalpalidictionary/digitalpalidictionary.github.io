@@ -8,7 +8,7 @@
    
 Here is a [video to help you with Windows installation](https://www.youtube.com/watch?v=KZ4CecdVL0k) courtesy of the [Learn Pali Channel on Youtube](https://www.youtube.com/channel/UC73nNRzMzvweRb52ArFG3Gg).
 
-Below are detailed *anupubba* text instructions. 
+Below are detailed *step-by-step* text instructions. 
 
 ## Install GoldenDict
 

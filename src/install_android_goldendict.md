@@ -8,7 +8,7 @@ GoldenDict on Android can be accessed by highlighting a word in a text and click
 2. install GoldenDict from the [Google Play Store](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)
 3. copy DPD to the GoldenDict folder
 
-Below are detailed *anupubba* instructions. 
+Below are detailed *step-by-step* instructions. 
 
 ## Download DPD
 

@@ -10,7 +10,7 @@ If you would still prefer to use MDict, here's how to get it setup.
 2. download and install MDict from [Google Play Store](https://play.google.com/store/apps/details?id=cn.mdict&hl=en&gl=US) or the [MDict website](https://www.mdict.cn/wp/?page_id=5325&lang=en) 
 3. copy DPD to the MDict folder
 
-Below are detailed *anupubba* instructions. 
+Below are detailed *step-by-step* instructions. 
 
 ## Download DPD
 

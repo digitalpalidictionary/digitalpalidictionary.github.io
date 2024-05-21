@@ -6,7 +6,7 @@
 2. install MDict from the [App Store](https://apps.apple.com/us/app/mdict-ad/id894362875)
 3. Move the dpd.mdx file to the MDict folder on your iOS device.
 
-Below are detailed *anupubba* instructions. 
+Below are detailed *step-by-step* instructions. 
 
 ## Download DPD
 

@@ -6,7 +6,7 @@
 2. install GoldenDict NG for [Apple Silicon M1 chip and newer](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/GoldenDict-24.05.05-Qt6.7.0-arm64.dmg) or [Intel AMD64](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/GoldenDict-24.05.05-Qt6.7.0-x86_64.dmg)
 3. in settings, direct GoldenDict to the DPD folder.
 
-Below are detailed *anupubba* instructions. 
+Below are detailed *step-by-step* instructions. 
 
 
 ## Download GoldenDict
