@@ -109,6 +109,7 @@ Click the **Sorting Mode Button** in the top right-hand corner
 
 ![sorting mode](pics/dicttango2/sorting_mode.jpg)
 
+
 ## Dark Mode
 
 If you prefer dark mode, then
@@ -127,20 +128,6 @@ And choose your preferred dark mode.
 
 The app will restart in Dark Mode.
 
-## Font Size
-
-To adjust the font size, **open** any word in the dictionary.
-
-**Click on the resize icon** in the bottom right-hand corner.
-
-![resize icon](pics/dicttango2/resize.jpg)
-
-Drag the **slider** up and down to change the font size.
-
-![slider](pics/dicttango2/slider.jpg)
-
-
-
 
 
 ## How To Open A Word In DictTango
@@ -158,5 +145,24 @@ All relevant dictionary entries will be displayed
 ![open in mdict](pics/dicttango2/android_opened.jpg)
 
 Once inside DictTango, just **single-click** on any word to open it. 
+
+
+## Font Size
+
+To adjust the font size, **open** any word in the dictionary.
+
+**Click on the resize icon** in the bottom right-hand corner.
+
+![resize icon](pics/dicttango2/resize.jpg)
+
+Drag the **slider** up and down to change the font size.
+
+![slider](pics/dicttango2/slider.jpg)
+
+
+## Install more Pāḷi and Sanskrit dictionaries
+
+Here's a good selection of [more Pāḷi and Sanskrit dictionaries](https://github.com/digitalpalidictionary/dpd-db/tree/main/exporter/other_dictionaries) to install on your Android device.
+
 
 Enjoy your Pāḷi reading with this great Android app!
