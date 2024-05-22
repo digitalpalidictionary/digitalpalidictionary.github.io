@@ -162,7 +162,7 @@ Drag the **slider** up and down to change the font size.
 
 ## Install more Pāḷi and Sanskrit dictionaries
 
-Here's a good selection of [more Pāḷi and Sanskrit dictionaries](https://github.com/digitalpalidictionary/dpd-db/tree/main/exporter/other_dictionaries) to install on your Android device.
+Here's a good selection of [Pāḷi and Sanskrit dictionaries](https://github.com/digitalpalidictionary/dpd-db/tree/main/exporter/other_dictionaries) to install on your Android device.
 
 
 Enjoy your Pāḷi reading with this great Android app!

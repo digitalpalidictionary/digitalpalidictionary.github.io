@@ -1,5 +1,21 @@
 # Changelog
 
+## 2024-05-22
+
+- 78 406 headwords, 33 329 complete, 16 942 partially complete, 28 135 incomplete entries
+- 748 roots, 3 257 root families, 32 415 words derived from roots
+- 731 448 deconstructed compounds
+- 1 595 590 unique inflected forms recognized
+- 1 672 945 cells of Pāḷi word data
+- 19 644 cells of Pāḷi root data
+- 100% dictionary recognition in the early texts
+- pass2 completed in MN2
+- massive reduction in file size, all repeated lists are now displayed with JavaScript rather than HTML, thanks to [@windwerfer](https://github.com/windwerfer) for helping to implement this feature
+- [Russian release](https://github.com/digitalpalidictionary/rus-release/releases) 
+- numerous additions and corrections based on user feedback
+
+**new words include**: akhudda, ajjhāyaka 1.2, adhikaraṇa 4, adhideve, adhibrahmānaṃ, anubhavati 3, anurakkhaṇā, anoloketvā, antarikā 2, abhijātika 2, abhisaṅkhacca 2, amantā, amūlikā, avanaddha, aviyoga, avivitta 2, asambhinna 4, asita 3.2, ahamettha, aṃsa 2.2, ākāsa 6, ābhāsati 1, āruhitvā 2, āsanne, ittara 5, idhāssu, issariyādhipaccaṃ, uccena, utu 6, utuni, uttara 2.12, uddhana 2, upakkami 2, uraga 2, ussaṭa 2, esukārī 2, opaṇaviyā, kaccāsi, kaṇṇaka2, kaṇhābhijātika 2, kappeti 4, kappetvā 2.2, kammaṭṭhāna 4, kāya 1.8, kāra 6, kicca 4, kula 5, kūpa 2, kūpa 3, khaṇanta 2, khatta 2, khandha 7, khemiyā 2, gaccha 2.2, gopa 2, ghoṭa 1, ghoṭa 2, carita 2.3, cāvetuṃ 3, chijjati 4, jani, jāleti 2, jāletuṃ 2, tato sīsaṃ katvā, tadevettha, tamanuvatteti, tamettha, tala 2, tiṇarukkhā, tesamidaṃ,tvāna, danta 1.3, dassana 7, duhāpesi, dhammacetiya 2, dhunāti 3, nāmāyaṃ 2, nālattha 2, nālamettha, nāhamettha, nikkhipanta 3, pacchima 8, pacchimā janatā, paññapeti 4, paññāpayamāna 2, paṭijānāti 5, paṭimantiya, paṇaviyā, patiṭṭhāpeti 6, patiṭṭhāpenta 2, parājayati, parāmasitabba 1, parikanta, parikkhitta 4, passupi, pāvāreti, pāsaṃsiya, pāhuna 2, pīṇetuṃ 2, pīḷeti 1, puṭṭhumāgamā, purima 5, pekkhati 3, pessaka 2, phālenta 2, byākho, brahmañña 4, brūhetuṃ 2, majjhima 8, mantā 2, māṇava 3, mārī 2, mukha 7, methuna 3, mesā, yaññayājī, yatthassu, yājī, rājakaraṇīya 2, labhati 3, vacchasī, vaṇṇatā 2, vaṇṇī 3, vatta 1.4, varaṃ te, vikkandanta, vilumpāpeti, vivitta 2, vokāra 4, sakulā 2, samārambha 1.2, samupabyūḷha 2, sampayogamanvāya 2, sampayojeti 3, sammappadhāna 3, sara 2.2, saṃtajjaka, saṃvāsamanvāya 2, sijjhati 2, supākaṭa, somā 2, hanu 2 [142]
+
 ## 2024-04-24
 - 78 264 headwords, 32 733 complete, 17 185 partially complete, 28 346 incomplete entries
 - 749 roots, 3 253 root families, 32 310 words derived from roots
