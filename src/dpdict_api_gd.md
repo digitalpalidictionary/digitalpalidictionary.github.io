@@ -4,11 +4,11 @@ Here's how to setup DPD as a live searchable website in GoldenDict. This has the
 
 Open Menu > Edit > Dictionaries (Shortcut F3)
 
-![open dictionaries](pics/www.dpdict.net/dpdict_api_gd_open_dictionaries.png)
+![open dictionaries](pics/dpdict.net/dpdict_api_gd_open_dictionaries.png)
 
 (1) In **Sources**, go to the **Websites** tab
 
-![add website](pics/www.dpdict.net/dpdict_api_gd_add_website.png)
+![add website](pics/dpdict.net/dpdict_api_gd_add_website.png)
 
 (2) Click **Add**
 
@@ -21,7 +21,7 @@ Address: https://dpdict.net/gd?search=%GDWORD%
 
 (1) Go to the **Dictionaries** tab
 
-![reorder dictionaries](pics/www.dpdict.net/dpdict_api_gd_reorder_dictionaries.png)
+![reorder dictionaries](pics/dpdict.net/dpdict_api_gd_reorder_dictionaries.png)
 
 (2) Drag www.dpdict.net to the position where you want it displayed
 
