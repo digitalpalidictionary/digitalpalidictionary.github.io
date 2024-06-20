@@ -1,6 +1,6 @@
 ## Settings
 
-[www.dpdict.net](www.dpdict.net) is highly customizable with user settings.
+[www.dpdict.net](https://www.dpdict.net) is highly customizable with user settings.
 
 ## Font size
 

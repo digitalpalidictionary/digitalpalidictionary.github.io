@@ -17,7 +17,7 @@ Open Menu > Edit > Dictionaries (Shortcut F3)
 Enable: checked\
 As Link: unchecked\
 Name: www.dpdict.net\
-Address: http://dpdict.net/gd?search=%GDWORD%
+Address: https://dpdict.net/gd?search=%GDWORD%
 
 (1) Go to the **Dictionaries** tab
 

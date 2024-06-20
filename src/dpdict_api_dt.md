@@ -17,7 +17,7 @@ Select **Add Online Dictionary**.
 Add the following information to **Edit Dictionary Details**
 
 Dictionary Name: www.dpdict.net\
-Dictionary URL: www.dpdict.net/gd?search=#KEYWORD#
+Dictionary URL: https://www.dpdict.net/gd?search=#KEYWORD#
 
 ![Edit Dictionary Details](pics/www.dpdict.net/dpdict_api_dicttango_dictionary_detail.jpg)
 
