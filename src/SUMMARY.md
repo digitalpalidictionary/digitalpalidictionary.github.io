@@ -14,8 +14,8 @@
 2. [Summary](dpdict_summary.md)
 3. [Dictionary display](dpdict_dictionary_display.md)
 4. [Settings](dpdict_settings.md)
-5. [API in GoldeDict](dpdict_api_gd.md)
-6. [API in DictTango](dpdict_api_dt.md)
+<!-- 5. [API in GoldeDict](dpdict_api_gd.md) -->
+<!-- 6. [API in DictTango](dpdict_api_dt.md) -->
 
 -----------
 
@@ -31,8 +31,6 @@
 [Install on iOS](install_ios.md)
 [Install on Linux](install_linux.md)
 [Install on Android](install_android_dicttango.md)
-<!-- [Install on Android (GoldenDict)](install_android_goldendict.md) -->
-<!-- [Install on Android (MDict)](install_android_mdict.md) -->
 [Install on Kindle](kindle.md)
 [Update](update.md)
 
