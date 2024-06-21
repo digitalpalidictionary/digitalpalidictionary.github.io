@@ -1,20 +1,22 @@
 # Welcome to Digital Pāḷi Dictionary
 
-DPD is a feature-rich Pāḷi-English dictionary which runs in GoldenDict, MDict, and [Kindle](kindle.md), or any other application that supports those formats. 
-
-Download the latest version from [this page on GitHub](https://github.com/digitalpalidictionary/digitalpalidictionary/releases).
+DPD is a feature-rich Pāḷi-English dictionary which runs <a href='https://dpdict.net' target='_blank'>on the web</a>, in GoldenDict, MDict, [DictTango](install_android_dicttango.md) and [Kindle](kindle.md), or any other application that supports those formats.
 
 It is a work in progress, made available for testing and feedback purposes.
 
+Please use the menu on the left to navigate around this site.
+
+Firstly, you need to get GoldenDict, MDict or DictTango installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [iOS](install_ios.md) / [Linux](install_linux.md) / [Android](install_android_dicttango.md)) or [update](update.md) once a month if you're already installed.
+
+Download the latest version for your device from [this page on GitHub](https://github.com/digitalpalidictionary/digitalpalidictionary/releases).
+
 Here's a handy guide to some of the [features](features.md) available in DPD. 
 
-Firstly, you need to get GoldenDict or MDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [iOS](install_ios.md) / [Linux](install_linux.md) / [Android](install_android_dicttango.md)) or [update](update.md) once a month if you're already installed.
+Next, you should really [configure the hotkey](setup_hotkey.md) if you're on Windows or Mac, or try the [scan-popup](setup_scan_popup.md) if you're on Linux. This will allow you to click on any word in any Pāḷi text, and automatically look it up in DPD.
 
-Next, you should really [configure the hotkey](setup_hotkey.md) if you're on Windows or Mac, or try the [scan-popup](setup_scan_popup.md) if you're on Linux. This will allow you to click on any word in any Pāḷi text, and automatically open it in GoldenDict.
+There are some powerful [advanced features for GoldenDict](setup_advanced.md) that might be useful to you.
 
-There are some powerful [advanced features for Goldendict](setup_advanced.md) that might be useful to you.
-
-While you're at it, here are some [more Pāḷi and Sanskrit dictionaries](https://github.com/digitalpalidictionary/dpd-db/tree/main/exporter/other_dictionaries) to install for GoldenDict or MDict. These include the Critial Pāli Dictionary, and the Simsapa Combined Dictionary which contains PTS, DPPN and NCPED and more.
+While you're at it, here are some [more Pāḷi and Sanskrit dictionaries](https://github.com/digitalpalidictionary/dpd-db/tree/main/exporter/other_dictionaries) to install for GoldenDict, MDict or DictTango. These include the Critical Pāli Dictionary, and the Simsapa Combined Dictionary which contains PTS, DPPN and NCPED and more.
 
 If you spot a mistake in DPD, or notice something missing, here's where to [report it](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). It generally takes less than a minute. 
 
