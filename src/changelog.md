@@ -1,5 +1,20 @@
 # Changelog
 
+## 2024-06-21
+
+- 78 505 headwords, 33 642 complete, 16 806 partially complete, 28 057 incomplete entries
+- 749 roots, 3 260 root families, 32 488 words derived from roots
+- 731 393 deconstructed compounds
+- 1 599 407 unique inflected forms recognized
+- 1 678 843 cells of Pāḷi word data
+- 19 623 cells of Pāḷi root data
+- 100% dictionary recognition in the early texts
+- pass2 completed up to MN3
+- [www.dpdict.net](https://www.dpdict.net) website now live, thanks to [@falko-strenzke](https://github.com/falko-strenzke)
+- numerous additions and corrections based on user feedback
+
+**new words include**: addhabhāveti 2, anaddhaniya, anadhiṭṭhāna 2, ananusāsiyamāna, ananusociya, anavassutatā, anārādhaniya, anupaghāta 2, anokāsa 2, anovadiyamāna, amata 1.4, ayakanta, avibhatta 2, asukha 3, ātapa 2, āpajji 3, āramati 2.1, āhaṭa 2, ujukaṃ, uṭṭhātabba, upajjhāyavattakathā, upanikkhipitabba, uparikhādanīya, uparipānīya, uparibhojana, uparisāyanīya, upahāra 3, upātivattanta, ussukkāpana, otāpetabba, kakkassa, kaṇḍaka 2, kulupaccheda, khila 2.1, catutthabhāṇavāra, cunda 3, cūḷamātar, chandas 2.1, jaṭilasahassa, tinna, tibbacchanda 2, thapati 2, daṇḍayati, daṇḍeti, davā, dahati 1.2, dātabba 4, desakālaparidīpana, dvedhika, dhāretvā 2, nigamita, nidahitabba, niyatī, nivāretabba, nissaṭṭhatta, netvāna, paccāgamanaka, pañcattaya 2, paṭijānāti 2, paṭiññāta 3, paṭinivāsana, paṭivāna, paṭivibhattabhogī, paṭihāra 2, patthana 2, paritta 1.3, pariyāpuṇituṃ, pariyodapeti 2, piṇḍola 3, pitucitta, puttacitta, brāhmaṇabhojana, bhagavati 3, bhuñjamāna 2, maritukāma, mahāmātar, mahāva 2, māṇava 4, ravā, ropī 2, luñcana, lokagaru, vammī 2.1, vipacceti, vipākadāyaka, vivariyamāna 1, visaṭṭha 2, vīta 1.2, vuṭṭhahi 4, vuṭṭhātabba, vegāyitabba, vohārika 2, saṅkhāraṃ padahati, saṅkhāraṃ padahanta, santetthekacce, sādhukameva, sāma 1.3, sīdā, sesa 3 [99]
+
 ## 2024-05-22
 
 - 78 406 headwords, 33 329 complete, 16 942 partially complete, 28 135 incomplete entries
