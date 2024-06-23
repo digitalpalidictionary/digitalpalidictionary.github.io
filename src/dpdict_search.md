@@ -13,12 +13,13 @@ The Velthuis system allows you to type diacritics without any special keyboard i
 | aa | > | ā |
 | ii | > | ī |
 | uu | > | ū |
-| "n | > | ṅ |  
+| "n | > | ṅ |
+| "y | > | ñ |  
 | .t | > | ṭ |
 | .d | > | ḍ |
 | .n | > | ṇ |
 | .m | > | ṃ |
- |.l | > | ḷ |
+| .l | > | ḷ |
 
 ## No Results found
 
