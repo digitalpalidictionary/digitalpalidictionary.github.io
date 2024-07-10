@@ -67,5 +67,5 @@ By default all sandhi in DPD is indicated with an single apostrophe **'**. This 
 HIDE: akaṅkhī vatamhi avicikicchī niṭṭhaṅgato saddhammeti.\
 SHOW: akaṅkhī vat'amhi avicikicchī niṭṭhaṅ'gato saddhamme'ti.
 
-<!-- NEXT: [Setup API in GoldenDict](dpdict_api_gd.md) -->
+NEXT: [Setup API in GoldenDict](dpdict_api_gd.md)
 

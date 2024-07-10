@@ -14,8 +14,8 @@
 2. [Summary](dpdict_summary.md)
 3. [Dictionary display](dpdict_dictionary_display.md)
 4. [Settings](dpdict_settings.md)
-<!-- [API in GoldeDict](dpdict_api_gd.md) -->
-<!-- [API in DictTango](dpdict_api_dt.md) -->
+5. [API in GoldeDict](dpdict_api_gd.md)
+6. [API in DictTango](dpdict_api_dt.md)
 
 -----------
 

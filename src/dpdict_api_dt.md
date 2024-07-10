@@ -1,6 +1,8 @@
 ## Setup API in DictTango
 
-Here's how to setup DPD as a live searchable website in DictTango. This has the advantage of always being up-to-date with the latest DPD database, and the disadvantage of being slightly slower. 
+Here's how to setup DPD as a live searchable website in DictTango. 
+
+This has the advantage of being quite quick and easy to set up and always being up-to-date with the latest DPD database, and the disadvantage of being a second slower. 
 
 From the start page, select **Dictionary List**.
 
