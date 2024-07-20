@@ -4,7 +4,7 @@ A light version of DPD is now available for the Kobo Reader.
 
 It contains all DPD headwords, as well as all the deconstructed compounds in the Vinayapiṭaka and early part of the Suttapiṭaka, and recognizes all inflected forms with a single click. 
 
-⚠️ Update: There seems to be some glitch with the released version, not recognizing inflections properly. 
+⚠️ Update: There seems to be some glitch with the released version, not recognizing inflections properly. Please be patient while the problem is resolved.
 
 ## Installation
 
