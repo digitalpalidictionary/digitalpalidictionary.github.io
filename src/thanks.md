@@ -8,21 +8,24 @@ support. _parapaṭibaddhā me jīvikā'ti pabbajitena abhiṇhaṃ paccavekkhit
   *  **Ven. Ariyananda** in Sri Lanka for a powerful laptop
   *  **Ven. Devamitta** in Malaysia for thousands of small corrections and suggestions for improvement
   *  **Ven. Gambhīro** in Portugal for the technical expertise, and the GoldenDict exporter that started this whole chain of events
-  *  **Ven. Dhammañāṇa** in Vietnam for help with the MDict exporter
-  *  **Ven. Kusalacitto** in Thailand for help with the MDict exporter
+  *  **Ven. Kusalacitto** in Thailand for help with the JavaScript in the GoldenDict and MDict exporters
+  *  **Ven. Cittadhammo** in England for integrating DPD into www.thebuddhaswords.net & www.suttacentral.net
+  *  **Ven. Dhammañāṇa** in Vietnam for creating the MDict exporter
   *  **Prof. Bryan Levman,** in Canada for detailed grammatical analysis of Dīgha Nikāya and Theragāthā
   *  **Prof. Aleix Ruiz Falqués** in Spain for internet classes on the classical Pāḷi grammars
-  *  **Sumukha** in India for the Python technical support helpline
+  *  **Falko** in Germany for setting up www.dpdict.net
   *  **Inka Kendzia** in South Africa for paying the internet bill
   *  **Max** in Massachusetts for paying the internet bill and pertinent questions
+  *  **Ramakrishnan Suryanarayanan** in England for countless Sanskrit cognates
   *  **Son Tu** in California for detailed grammatical feedback
+  *  **Sumukha** in India for the Python technical support helpline
   *  **Everyone** around the world who has made suggestions through the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform)
   *  **Anyone** who I have erroneously forgotten to thank
 
 ## Monasteries
 
 Thank you to all the monasteries and their supporters which have sustained my
-livelihood during the course of this work.
+livelihood as a bhikkhu
 
   *  **Na Uyana Dharmayatana** in Melsiripura, Sri Lanka
   *  **Hindagala Meditation Centre** in Kandy, Sri Lanka
