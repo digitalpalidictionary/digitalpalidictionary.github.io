@@ -1,6 +1,6 @@
-# DPD for Kobo Reader
+# DPD for Kobo eReader
 
-A light version of DPD is now available for the Kobo Reader. 
+A light version of DPD is now available for the Kobo eReader. 
 
 It contains all DPD headwords, as well as all the deconstructed compounds in the Vinayapiṭaka and early part of the Suttapiṭaka, and recognizes all inflected forms with a single click. 
 
