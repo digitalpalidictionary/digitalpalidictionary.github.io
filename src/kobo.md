@@ -16,7 +16,7 @@ It contains all DPD headwords, as well as all the deconstructed compounds in the
 
 ![image](pics/kobo/kobo_rename.png)
 
-(3) Copy the file to `.kobo/custom-dict/` folder on your device. You may need to show hidden flies to see that folder. 
+(3) Copy the file to `.kobo/custom-dict/` folder on your device. You may need to show hidden files to see that folder. 
 
 That's it! Enjoy your Pāḷi reading experience on Kobo.
 
