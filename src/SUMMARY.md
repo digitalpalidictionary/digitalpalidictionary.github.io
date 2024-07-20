@@ -32,6 +32,7 @@
 [Install on Linux](install_linux.md)
 [Install on Android](install_android_dicttango.md)
 [Install on Kindle](kindle.md)
+[Install on Kobo](kobo.md)
 [Update](update.md)
 
 -----------
