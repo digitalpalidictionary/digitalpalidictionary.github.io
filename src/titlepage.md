@@ -16,7 +16,7 @@ Next, you should really [configure the hotkey](setup_hotkey.md) if you're on Win
 
 There are some powerful [advanced features for GoldenDict](setup_advanced.md) that might be useful to you.
 
-While you're at it, here are some [more Pāḷi and Sanskrit dictionaries](https://github.com/digitalpalidictionary/dpd-db/tree/main/exporter/other_dictionaries) to install for GoldenDict, MDict or DictTango. These include the Critical Pāli Dictionary, and the Simsapa Combined Dictionary which contains PTS, DPPN and NCPED and more.
+While you're at it, here are some [more Pāḷi and Sanskrit dictionaries](other_dicts.md) to install for GoldenDict, MDict or DictTango. These include the Critical Pāli Dictionary, and the Simsapa Combined Dictionary which contains PTS, DPPN and NCPED and more.
 
 If you spot a mistake in DPD, or notice something missing, here's where to [report it](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). It generally takes less than a minute. 
 
