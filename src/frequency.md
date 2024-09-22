@@ -47,7 +47,7 @@ The Khuddaka Nikāya contains much material that differs not only in linguistic 
 
 These books are mostly consistent with the four nikāyas of the Sutta Piṭaka in language and style.
 
-Khuddakapāṭhapāḷi, Dhammapadapāḷi, Udānapāḷi, Itivuttakapāḷi, Suttanipātapāḷi, Theragāthāpāḷi, Therīgāthāpāḷi, Jātakapāḷi-1, Jātakapāḷi-2.
+Khuddakapāṭhapāḷi, Dhammapadapāḷi, Udānapāḷi, Itivuttakapāḷi, Suttanipātapāḷi, Theragāthāpāḷi, Therīgāthāpāḷi.
 
 Please note there are *aṭṭhakathā* but no *ṭīkā* for all these books
 
@@ -55,7 +55,7 @@ Please note there are *aṭṭhakathā* but no *ṭīkā* for all these books
 
 These late books have an easily recognisable flowery style of verse and devotional content. 
 
-Vimānavatthupāḷi, Petavatthupāḷi, Apadānapāḷi-1, Apadānapāḷi-2, Buddhavaṃsapāḷi, Cariyāpiṭakapāḷi.
+Vimānavatthupāḷi, Petavatthupāḷi, Apadānapāḷi-1, Apadānapāḷi-2, Buddhavaṃsapāḷi, Cariyāpiṭakapāḷi, Jātakapāḷi-1, Jātakapāḷi-2.
 
 Again, there are *aṭṭhakathā* but no *ṭīkā* for these books
 
@@ -81,7 +81,7 @@ The Aññā section contains a wealth of material from the commentarial era, all
 
 ![image](pics/frequency/a%C3%B1%C3%B1%C4%81-abhidhamma.png)
 
-All the books which are not diredctly related to the 7 books of the Abhidhamma Piṭaka are included in Aññā Abhidhamma. This section includes summaries and overviews:  Abhidhammāvatāro-nāmarūpaparicchedo, the well-known Abhidhammatthasaṅgaho, Abhidhammāvatāra-purāṇaṭīkā, and Abhidhammamātikāpāḷi.
+All the books which are not directly related to the 7 books of the Abhidhamma Piṭaka are included in Aññā Abhidhamma. This section includes summaries and overviews:  Abhidhammāvatāro-nāmarūpaparicchedo, the well-known Abhidhammatthasaṅgaho, Abhidhammāvatāra-purāṇaṭīkā, and Abhidhammamātikāpāḷi.
 
 ### Aññā Visuddhimagga
 
