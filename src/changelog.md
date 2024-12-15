@@ -1,5 +1,20 @@
 # Changelog
 
+## 2024-12-15
+
+- 80 303 headwords, 37 438 complete, 15 824 partially complete, 27 041 incomplete entries
+- 751 roots, 3 284 root families, 33 401 words derived from roots
+- 846 465 deconstructed compounds
+- 1 636 519 unique inflected forms recognised
+- 1 926 855 cells of Pāḷi word data
+- 19 762 cells of Pāḷi root data
+- 100% dictionary recognition in the early texts
+- Russian version of the website https://dpdict.net/ru/
+- numerous additions and corrections based on user feedback
+
+**new words include:** accheraka, atikkāmetuṃ, anipajjitvā, anupada 2, anubodha 3, anesamāna, antaradhāpetvā, apara 4, apasādita 1, appasanna 4, abhijjhāyana, abhivaḍḍhitabba, abhivaḍḍhituṃ, allīyitabba, avabhutta, avabhottuṃ, avasanna, āgantvā 2, ācikkhanā, āthabbaṇika, āpatitvā, ābandhitvā, iriyā 3, upagantabba 2, upagīta, upāgami 2, ubbedha 4, uyyāti, uraṇa, ullolana, ullolenta, ekābaddha 2, oṇi, kaṇṭaka 6, kammamakari, karissati 2, kuṇṭha 1, kuṇṭhapāda, kuṇṭhita 2.1, kubbati 2, kūla 2, kopeti 2, kopeti 3, gabbha 5, gamayati 2, ghatāsana, ghāsitabba, jeṭṭhaka 3, tanetvā, tittirī, titthiya 3, tisaraṇa, tvāsadda, daṇḍaka 3, dānasīla 2, diṭṭheva, disā bhajavho, dīpetuṃ 1, dīpetuṃ 2, dundubhi 2, dunduṃ, duvaṅgula, devila, dhamadhamā, dhiyati, naḷa 3, nādayi, nādhati, nābhijjhāyati, nikkhipituṃ 2, nikhaṇati 2, niguhati, nicchetuṃ, nidahitvā 3, nipatana, nipatetvā, nipanna 2, nippariyāyato, nivāpa 3, nissayitabba, nissita 3, nosaññāvimokkha, pa 5.1, pakkhandiyāna, paṭala 2, paṭimaṇḍetvā, paṭisaṃharitvā 2, patiṭṭhāsi 2, pariyāyato, paligijjhati, palibajjhati, palimpati, pasiddhi, paṃsukūla 3, pāpanaka, pāpuṇīyati, pīṭhara, puṇṇa 6, pūgadhamma, ballika, bilavāsī, brahmacariya 3, bhakkhasārī, bharita 3, bhavakantāra, bhikkhunīgaṇa, bhuñjitvā 2, bhūma 4, magga 8, madayati, mahāsikhī, mūga 2, yajati 2, yajamāna 2, yathāsaka 2, yathodakaṃ, yamavaruṇā, yoga 8, rakāra, rājapiṇḍa, lacchati 2, lapāpanaka, vaditabba, vamitaka, vitthārayati, vitthāriyamāna, vipubba 1.1, vipubba 2.1, vippaṭipajjana, vimhāpayati 2, vivaraṇa 3, visesattha, saṅgaṇhituṃ, saddāyanta, santāsetvā, sanniṭṭhātuṃ, samaṇī 2, samaṃ karoti, samuṭṭhāpayamāna, salāka, sasaññī 2.1, saṃkasāyanta, sukhatara, sukhatthāya, suttaviññatti, sevana 4, hasati 2 [147]
+
+
 ## 2024-11-15
 
 - 80 158 headwords, 37 137 complete, 15 929 partially complete, 27 092 incomplete entries
