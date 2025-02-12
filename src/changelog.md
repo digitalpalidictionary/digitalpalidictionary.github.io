@@ -1,5 +1,23 @@
 # Changelog
 
+## 2025-02-12
+
+- 80 779 headwords, 39 774 complete, 15 111 partially complete, 25 894 incomplete entries
+- 751 roots, 3 292 root families, 33 706 words derived from roots
+- 847 794 deconstructed compounds
+- 1 645 987 unique inflected forms recognised
+- 1 957 414 cells of Pāḷi word data
+- 19 764 cells of Pāḷi root data
+- Pass1 complete: VIN1-2, DN1-3, MN1-3, SN1-5, AN1-11, KN1-5, KN8-9
+- Pass1 in progress: VIN3
+- Pass2 complete: DN1, MN1
+- Pass2 in progress: DN2 
+- Dictionary of Variant Readings in CST, BJT, SYA and MST
+- numerous additions and corrections based on user feedback
+
+**new words include:** aghasigama, aṅgulika, ajigucchamāna, aṭṭhapesi 2, aṭṭhamaṃ, aṭṭhilla, atikkami 2, adassana 1, adeti, advaya 2, anāgantvā 2, anivattita, anuppavecchanta, anusāsati 4, anerita, apacayati, aparaddha 3, apiḷayha, abyāpajja 3, abhinikkhami 2, abhisambujjhi 2, abhūtaṃ, alaṅkāra 3, avacara 3, avabhāsa 2, avasiñcanta, avigacchanaka, avirādhetvā 2, avhāyika, asaññā 2, ahīḷenta, ākaḍḍhitvā 3, ālapitabba, ālapituṃ, āvārenta, iccassa, īsaka 2, ukkhipanta, ugghāṭayi, uttarāpa, uttarāpā, uttari 2.2, uttānakūla, upacāravacana, ekamekena 2, ekavacana 1, eke 2, ogāhitabba, osiñcitvā 2, kakkasa 3, kaṭṭharūpaka, kapisīsā, kayiramāna 2, kayiramāna 3, kasanta 2, kassana, kaṃsatāḷa, kilantosmi, kukkuṭakā 1, kukkuṭakā 2, kucchi 5, koṭṭāpetabba, khandhaṭṭhi, gaggarā 2, gaṇṭha, gaṇṭhana, gahaṇa 3, guḷhaummagga, guḷhavinaya, guḷhavessantara, ghaṭṭetuṃ, ghaṃsāpetabba, cūḷanī 2, cūḷanīputta, chandavasena 1.1, chandavasena 2.1, challi 2, chādayamāna 2.1, java 3, javanaka, jitamhā, jotana 2, ṭhapetabba 3, ṭhapetvā 5, ṭhapesi 4, ṇeyya, taṅkhaṇaṃ, taruṇūpama 2, tāpasaposita, tāla 2.2, tāḷa 4, tāḷitabba, daṇḍamaṇikā, dantamaṃsa, divāvihāraṃ 2, dū, dūsika, dvādasayojana 1, dhamamāna 2, naciraṃ, naccāpenta, nānāsabhāva, niddhunanaka, nimmadana 2, nimmadanaka, niyyanta 2, niyyāsi 2, nirasa, nivārayi, nisīdi 2, nupanivattati, pakireti 2, pakkosanaka, paccanīkaṅga, paccuppannavacana, pañcarathāsata, paññapenta 4, paṭipajjati 4, paṭipajjanaka, paṭipajjitabba 2, paṭibhuñjati, paṭivaṭṭesi, paṭivijjhanaka, patiṭṭhahitvā 2, pattapariyāpanna 2, pathavīkampa, parāmasi 1, parikkhipāpesi, paricchinditvā 1, parittāyanta, paridayha, paripphandamāna, pariharamāna, palibandhana, passena, pānada, piṭṭhimaṃsa, purakkhatvā 3, puḷina, petti 2, pesesi 4, pothita, phāletvā 3, bandhanta 3, bimbī 2, byāpana, bhaṭa 3, bhabba 3, bhamitabba, bhamitvāna, makkhetvā 2, macchavilolikā, maṇivaṃsa, mati 2.1, mahārava, mālā 2, murumurāpetvā, yugaḷa, rāgādivinaya, lokapūjita, vajjitabba, vammika 2, vassituṃ, vāmagāmī, vāyanta 2, vikkhipati 2, vicakkā, vicakkhuka, vijahāpetvā, vidhametvā, vinicchinituṃ, vipaccanaka, virajjhati 3, viravi 2, vilola, vivaṭaka, vuṭṭhahati 4, vuṭṭhahitvāna 2, vuṭṭhāti 1, vedallapiṭaka, sakaraṭṭha, saṅkalitabba, sataraṃsī 2, saterā, santhari 2, sandituṃ, samavekkhitar, samparivattaka, samphusi 2, sammasitar, saramā, saṃparivattamāna, sādhetabba, sārathicodita, sārameyya, sukkhāsani, suttapaṭipāṭi, sunī, suvānavamathu, seta 5, harissa [201]
+
+
 ## 2025-01-13
 
 - 80 601 headwords, 38 677 complete, 15 609 partially complete, 26 315 incomplete entries
