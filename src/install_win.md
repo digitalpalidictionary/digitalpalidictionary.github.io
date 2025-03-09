@@ -2,8 +2,10 @@
 
 ## In Brief
 
-1. download the latest version of DPD from [Github](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest)
-2. install the latest version of [GoldenDict NG](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/6.7.0-GoldenDict-ng-Installer.exe)
+1. download the latest version of [DPD](https://github.com/digitalpalidictionary/dpd-db/releases/latest). Look for `dpd-goldendict.zip`
+
+2. download and install the latest version of [GoldenDict NG](https://github.com/xiaoyifang/goldendict-ng/releases/latest). Look for `Windows-installer.exe`
+
 3. in settings, direct GoldenDict to the DPD folder.
    
 Here is a [video to help you with Windows installation](https://www.youtube.com/watch?v=KZ4CecdVL0k) courtesy of the [Learn Pali Channel on Youtube](https://www.youtube.com/channel/UC73nNRzMzvweRb52ArFG3Gg).
@@ -12,9 +14,9 @@ Below are detailed *step-by-step* text instructions.
 
 ## Install GoldenDict
 
-Download the latest version of GoldenDict NG from [Github](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/6.7.0-GoldenDict-ng-Installer.exe)
+Download the latest version of GoldenDict NG from [Github](https://github.com/xiaoyifang/goldendict-ng/releases/latest). Look for `Windows-installer.exe`
 
-Go to your `Downloads` folder and double click `6.7.0-GoldenDict-ng-Installer.exe`
+Go to your `Downloads` folder and double click `GoldenDict-ng-version-xyz-Windows-installer.exe`
 
 <!-- ![gd exe](pics/win-install/gd%20exe.png) -->
 
@@ -48,7 +50,7 @@ Click Finish
 
 ## Download DPD
 
-Download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest).
+Download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/digitalpalidictionary/dpd-db/releases/latest).
 
 ## Make a GoldenDict folder
 

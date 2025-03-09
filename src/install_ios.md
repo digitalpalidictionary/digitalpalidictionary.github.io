@@ -2,15 +2,15 @@
 
 ## In Brief
 
-1. download the latest version of DPD for MDict (dpd.mdx) [here](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest). 
+1. download the latest version of DPD for MDict [from Github](https://github.com/digitalpalidictionary/dpd-db/releases/latest). Look for `dpd-mdict.zip`.
 2. install MDict from the [App Store](https://apps.apple.com/us/app/mdict-ad/id894362875)
-3. Move the dpd.mdx file to the MDict folder on your iOS device.
+3. Unzip `dpd-mdict.zip` and move the files to the MDict folder on your iOS device.
 
 Below are detailed *step-by-step* instructions. 
 
 ## Download DPD
 
-First things first, download the latest MDict version of Digital Pāḷi Dictionary from [Github](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest)
+First things first, download the latest MDict version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/dpd-db/releases/latest)
 
 ## Download MDict
 
@@ -20,9 +20,11 @@ Search for **MDict** in your device's App Store and click **GET** to install
 
 ## Install the DPD File
 
+Unzip `dpd-mdict.zip`. 
+
 There are 2 ways to install.
 
-Put the dpd.mdx file into your **Library**, it will install automatically.
+Put the unzipped files into your **Library**, it will install automatically.
 
 ![library](pics/ios/2library.JPG)
 
@@ -30,7 +32,7 @@ Or open the **Files** application
    
 ![files](pics/ios/3files.JPG)
 
-and move the dpd.mdx file to the **MDict** folder in **On My iPhone**
+and move the unzipped files to the **MDict** folder in **On My iPhone**
 
 ![onmyios](pics/ios/4onmyios.JPG)
 

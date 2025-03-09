@@ -2,8 +2,8 @@
 
 ## In Brief
 
-1. download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest)
-2. install GoldenDict NG for [Apple Silicon M1 chip and newer](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/GoldenDict-24.05.05-Qt6.7.0-arm64.dmg) or [Intel AMD64](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/GoldenDict-24.05.05-Qt6.7.0-x86_64.dmg)
+1. download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/digitalpalidictionary/dpd-db/releases/latest)
+2. install [GoldenDict NG](https://github.com/xiaoyifang/goldendict-ng/releases/latest). Use `macOS-arm64.dmg` for Apple Silicon M1 chip and newer, or `macOS-x86_64.dmg` for Intel AMD64 machines.
 3. in settings, direct GoldenDict to the DPD folder.
 
 Below are detailed *step-by-step* instructions. 
@@ -11,11 +11,9 @@ Below are detailed *step-by-step* instructions.
 
 ## Download GoldenDict
 
-If you are using an Apple Silicon M1 chip or newer, download [this version of GoldenDict NG from Github](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/GoldenDict-24.05.05-Qt6.7.0-arm64.dmg).
+If you are using an Apple Silicon M1 chip or newer, download `macOS-arm64.dmg` from [GoldenDict NG Releases on Gitgub](https://github.com/digitalpalidictionary/dpd-db/releases/latest).
 
-If you are using an Intel AMD64 chip, download [this version of GoldenDict NG from Github](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/GoldenDict-24.05.05-Qt6.7.0-x86_64.dmg). 
-
-<!-- More information about the latest Mac version of GoldenDict is available [here](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X). -->
+If you are using an Intel AMD64 chip, download `macOS-x86_64.dmg` from [GoldenDict NG Releases on Gitgub](https://github.com/digitalpalidictionary/dpd-db/releases/latest). 
 
 
 ## Install GoldenDict
@@ -46,7 +44,7 @@ Ok, you're installed. Now let's add a dictionary.
 
 ## Download DPD
 
-Download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest). 
+Download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/digitalpalidictionary/dpd-db/releases/latest). 
 
 ## Unzip
 

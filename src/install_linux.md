@@ -2,7 +2,7 @@
 
 ## In Brief
 
-1. download the latest version of DPD [here](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest)
+1. download the latest version of DPD [here](https://github.com/digitalpalidictionary/dpd-db/releases/latest)
 2. install version 1.5 of GoldenDict
 3. in settings, direct GoldenDict to the DPD folder.
 
@@ -10,7 +10,7 @@ Below are detailed *step-by-step* instructions.
 
 ## Download DPD
 
-First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest).
+First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/dpd-db/releases/latest).
 
 ## Make a GoldenDict folder
 

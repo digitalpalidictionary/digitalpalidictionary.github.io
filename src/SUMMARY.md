@@ -31,8 +31,9 @@
 [Install on iOS](install_ios.md)
 [Install on Linux](install_linux.md)
 [Install on Android](install_android_dicttango.md)
-[Install on Kindle](kindle.md)
-[Install on Kobo](kobo.md)
+[Install on Kindle](install_kindle.md)
+[Install on Kobo](install_kobo.md)
+[Install on ChromeBook](install_chromebook.md)
 [Update](update.md)
 
 -----------
