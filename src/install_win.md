@@ -2,7 +2,7 @@
 
 ## In Brief
 
-1. download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases)
+1. download the latest version of DPD from [Github](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest)
 2. install the latest version of [GoldenDict NG](https://github.com/xiaoyifang/goldendict-ng/releases/download/v24.05.05-LiXia.ecd1138c/6.7.0-GoldenDict-ng-Installer.exe)
 3. in settings, direct GoldenDict to the DPD folder.
    
@@ -48,7 +48,7 @@ Click Finish
 
 ## Download DPD
 
-Download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases).
+Download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest).
 
 ## Make a GoldenDict folder
 

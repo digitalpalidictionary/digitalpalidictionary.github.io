@@ -8,7 +8,7 @@ It contains all DPD headwords, as well as all the deconstructed compounds in the
 
 ## Installation
 
-(1) Download the latest version of **dpd-kobo.zip** from **[this page on GitHub](https://github.com/digitalpalidictionary/digitalpalidictionary/releases)**.
+(1) Download the latest version of **dpd-kobo.zip** from **[this page on GitHub](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest)**.
 
 ![image](pics/kobo/kobo_github.png)
 

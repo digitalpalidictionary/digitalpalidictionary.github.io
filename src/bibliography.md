@@ -55,6 +55,8 @@
 
   *  **Deokar** , Mahesh A., 2008. _Technical Terms And Technique Of The Pali And The Sanskrit Grammars_ , Sarnath, Varanasi: Central Institute of Higher Tibetan Studies
   *  **Deokar** , Mahesh A., 2012. _Some Probable Sanskrit Sources of the Pali Grammarians With Special Reference to Aggavamsa_ , New Delhi: DK Printworld
+  *  **Jones** , Dhivan, 2021. _Translating Paṭicca-samuppāda in Early Buddhism_ , Albany: State University of New York Press
+  *  **Karpik** , Stefan, 2023. _Light on Epigraphic Pali: More on the Buddha Teaching in Pali_ , Oxford: Oxford Centre for Buddhist Studies
   *  **Pandita** , Ven., 2015. _Pali Adjectives: When Progress Hurts_ , Unpublished
   *  **Pind** , Ole Holten, 1995. _Pāli and the Pāli Garmmarians: The Method of the Pāli Grammarians_ , Stockholm: Association of Oriental Studies
   *  **Wijesekera** , O.H. De A. , 1993. _Syntax of the Cases in the Pali Nikayas_ , Kelaniya: The Postgraduate Institute of Pali and Buddhist Studies, University of Kelaniya, accessed through <https://www.ancient-buddhist-texts.net/Textual-Studies/Syntax-of-the-Cases/index.htm>

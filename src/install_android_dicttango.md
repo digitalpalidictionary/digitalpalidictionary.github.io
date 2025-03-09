@@ -11,7 +11,7 @@ DictTango uses MDict files, but offers a far better user experience than the MDi
 
 ## Installation In Brief
 
-1. download the latest `dpd-mdict.zip` from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases)
+1. download the latest `dpd-mdict.zip` from [Github](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest)
 2. download and install DictTango from [Google Play Store](https://play.google.com/store/apps/details?id=cn.jimex.dict&pcampaignid=web_shareS) or [APKPure](https://m.apkpure.com/dicttango/cn.jimex.dict)
 
 ## Detailed Installation Instructions
@@ -25,7 +25,7 @@ Download and install DictTango from the [Google Play Store](https://play.google.
 
 ![google play store](pics/dicttango2/play_store.jpg)
 
-Download the latest **`dpd-mdict.zip`** from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases)
+Download the latest **`dpd-mdict.zip`** from [Github](https://github.com/https://github.com/digitalpalidictionary/dpd-db/releases/latest)
 
 ![github mdict](pics/dicttango2/0_github.png)
 
