@@ -1,4 +1,4 @@
-## CST Bold Definitions
+## CST Bold Definitions Search
 
 In the Chaṭṭha Saṅgāyana Tipiṭaka, there are more than 300 000 words highlighted in **bold**, which are definitions of other Pāḷi words.
 
