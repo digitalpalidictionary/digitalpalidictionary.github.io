@@ -14,6 +14,7 @@
 2. [Summary](dpdict_summary.md)
 3. [Dictionary display](dpdict_dictionary_display.md)
 4. [Settings](dpdict_settings.md)
+5. [CST Bold Definitions](dpdict_bd.md)
 5. [API in GoldeDict](dpdict_api_gd.md)
 6. [API in DictTango](dpdict_api_dt.md)
 
