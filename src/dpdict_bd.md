@@ -26,8 +26,6 @@ Use the first search box to find the bold definition you are looking for.
 
 **Press enter** or **click search** to get some results.
 
-<!-- ![Search button](pics/dpdict.net/dpdict_bd_search.png) -->
-
 The results will display below.
 
 ![Search results](pics/dpdict.net/dpdict_bd_results.png)
