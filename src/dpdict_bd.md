@@ -71,12 +71,9 @@ That's all there is to it. Enjoy this powerful search tool!
 
 If you have any problems or suggestions for improvement, please add it to the [DPD issues on Github](https://github.com/digitalpalidictionary/dpd-db/issues).
 
-The source code is [here](https://github.com/digitalpalidictionary/dpd-db/blob/797107cbbae12f87e7ff638333e70544f6e8445b/exporter/webapp/main.py#L223).
+The source code is [here](https://github.com/digitalpalidictionary/dpd-db/blob/6eaaa4c58059e5e03ecdf522635335b89a5e4b1d/exporter/webapp/main.py#L223).
 
 ## Thanks
 
 Thanks to the **Vipassana Research Institute** for making these digital texts in XML format freely available for non-commercial use. They can be found here on [Github](https://github.com/VipassanaTech/tipitaka-xml).
-
-
-
 
