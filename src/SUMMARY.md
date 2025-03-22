@@ -6,6 +6,7 @@
 [Word Frequency](frequency.md)
 [Deconstructor](deconstructor.md)
 [Grammar Dictionary](grammardict.md)
+[Abbreviations](abbreviations.md)
 
 -----------
 
