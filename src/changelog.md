@@ -1,6 +1,13 @@
 # Changelog
 
-**Change-log**:
+## 2025-03-14
+
+### Github Issues Closed
+- [#58 Add CST bold definitions to WebApp](https://github.com/digitalpalidictionary/dpd-db/issues/58)
+- [#59 'Database locked' error in WebApp](https://github.com/digitalpalidictionary/dpd-db/issues/59)
+- [#60 HTTP / HTTPS mixed content error in WebApp](https://github.com/digitalpalidictionary/dpd-db/issues/60)
+
+### Dictionary Data Updates
 - 80 882 headwords, 40 298 complete, 14 958 partially complete, 25 626 incomplete entries
 - 751 roots, 3 292 root families, 33 778 words derived from roots
 - 848 460 deconstructed compounds
@@ -11,11 +18,12 @@
 - Pass1 in progress: VIN3
 - Pass2 complete: DN1, MN1
 - Pass2 in progress: DN2 
-- CST Bold Definitions search added to the [DPD website](https://www.dpdict.net)
 - numerous additions and corrections based on user feedback
 
-**new words include:** acchariya 2, adāsayi, adhippeta 2, anasitvāna, anāyūhanta 1, anudeva, anupubbapadavaṇṇanā, anuvattati 3, anusāsana 4, api tu, appamādena, abbhukkiritvā, abhilapana, abhilapita, abhisambhoti 1, abhisiñci 1, arahati 4, avinipāta 2, āyācanta 2, ukkaṇṭhanā 2, upakkhara, upanāhana, upavuttha 2, upādinna 3, ekagga 3, ekodibhūta 2, kathetukamyatā, kanditvā, kappāpetvā 2, kappita 1.3, kaliṅgā, kāliṅgā, kesa 3, khantibala 2, gaṇhiyati, gandhamāla, gavapāna, gaha 3, gahita 2, gāmaka 2, gāhāpetuṃ 1, gāhāpetuṃ 3, cullaka, chandānurakkhaṇa, chijjitvā 2, jānapadī, jālana, ñassati 2, ṭhānacaṅkamana, tathāvādī 2, tappayi, tūriya 4, tenassu, dakkhiṇato 2, damathaṃ upeti, dātabba 5, dīghaṃ katvā, dīpicamma, dubbha 1, dhata 2, dhāraṇabala 2, namatthi, nalāṭikā 2, nidassana 4, nimmita 2, nirujjhanaka, netuṃ, paccatthata, pañcālā, paññāyi 3, paṭiggayha 2, paṭibyāhari, patiṭṭhāsi 1, padissa, parikkhaṭa, parikkhitta 3, paripūresi 2, parimeyya, pahutā, pātabba 2, phāsukaṃ, bahukattuka, bahunnapāna, bījanta, byagghacamma, matta 1.4, mattikā 2, musati 2.1, yathāvādī 2, yuddhasajja, yenatthena, rūḷhīsadda, luvaka, vaṇṇayi, vappanakāla, varaṅga, viggaha 3, viyūha, visañña 2, visesanavisesya, visesya, vissarati 1.1, vihāsi 2, vedikā 1, vessinī, vo 1.1, vossajjati, santiṭṭhati 5, santimārabbha, samacchati, samāpajji 2, sarati 2.3, sarasalakkhaṇa, sallakkhetuṃ, saṃka, saṃkaṭīra, sākacchetuṃ, sotukamyatā, hari 1.2, hinoti [120]
+### New words
+acchariya 2, adāsayi, adhippeta 2, anasitvāna, anāyūhanta 1, anudeva, anupubbapadavaṇṇanā, anuvattati 3, anusāsana 4, api tu, appamādena, abbhukkiritvā, abhilapana, abhilapita, abhisambhoti 1, abhisiñci 1, arahati 4, avinipāta 2, āyācanta 2, ukkaṇṭhanā 2, upakkhara, upanāhana, upavuttha 2, upādinna 3, ekagga 3, ekodibhūta 2, kathetukamyatā, kanditvā, kappāpetvā 2, kappita 1.3, kaliṅgā, kāliṅgā, kesa 3, khantibala 2, gaṇhiyati, gandhamāla, gavapāna, gaha 3, gahita 2, gāmaka 2, gāhāpetuṃ 1, gāhāpetuṃ 3, cullaka, chandānurakkhaṇa, chijjitvā 2, jānapadī, jālana, ñassati 2, ṭhānacaṅkamana, tathāvādī 2, tappayi, tūriya 4, tenassu, dakkhiṇato 2, damathaṃ upeti, dātabba 5, dīghaṃ katvā, dīpicamma, dubbha 1, dhata 2, dhāraṇabala 2, namatthi, nalāṭikā 2, nidassana 4, nimmita 2, nirujjhanaka, netuṃ, paccatthata, pañcālā, paññāyi 3, paṭiggayha 2, paṭibyāhari, patiṭṭhāsi 1, padissa, parikkhaṭa, parikkhitta 3, paripūresi 2, parimeyya, pahutā, pātabba 2, phāsukaṃ, bahukattuka, bahunnapāna, bījanta, byagghacamma, matta 1.4, mattikā 2, musati 2.1, yathāvādī 2, yuddhasajja, yenatthena, rūḷhīsadda, luvaka, vaṇṇayi, vappanakāla, varaṅga, viggaha 3, viyūha, visañña 2, visesanavisesya, visesya, vissarati 1.1, vihāsi 2, vedikā 1, vessinī, vo 1.1, vossajjati, santiṭṭhati 5, santimārabbha, samacchati, samāpajji 2, sarati 2.3, sarasalakkhaṇa, sallakkhetuṃ, saṃka, saṃkaṭīra, sākacchetuṃ, sotukamyatā, hari 1.2, hinoti [120]
 
+-------
 
 ## 2025-02-12
 

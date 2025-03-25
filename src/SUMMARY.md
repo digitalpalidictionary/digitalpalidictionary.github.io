@@ -1,57 +1,70 @@
 # Summary
 
 [Home](titlepage.md)
-[Features](features.md)
-[Roots Dictionary](rootdict.md)
-[Word Frequency](frequency.md)
-[Deconstructor](deconstructor.md)
-[Grammar Dictionary](grammardict.md)
-[Abbreviations](abbreviations.md)
 
 -----------
 
-[www.dpdict.net](dpdict.md)
-1. [Search](dpdict_search.md)
-2. [Summary](dpdict_summary.md)
-3. [Dictionary display](dpdict_dictionary_display.md)
-4. [Settings](dpdict_settings.md)
-5. [CST Bold Definitions](dpdict_bd.md)
-5. [API in GoldeDict](dpdict_api_gd.md)
-6. [API in DictTango](dpdict_api_dt.md)
+- [About]()
+    - [Features](features.md)
+    - [Roots Dictionary](rootdict.md)
+    - [Word Frequency](frequency.md)
+    - [Deconstructor](deconstructor.md)
+    - [Grammar Dictionary](grammardict.md)
+    - [Abbreviations](abbreviations.md)
 
 -----------
 
-[Tipitaka Pali Reader](tpr.md)
-[The Buddha's Words](tbw.md)
-[Simsapa Dhamma Reader](simsampa.md)
-[Sutta Central](sutta_central.md)
+- [Installation]() 
+    - [Install on Windows](install_win.md)
+    - [Install on Mac](install_mac.md)
+    - [Install on iOS](install_ios.md)
+    - [Install on Linux](install_linux.md)
+    - [Install on Android](install_android_dicttango.md)
+    - [Install on Kindle](install_kindle.md)
+    - [Install on Kobo](install_kobo.md)
+    - [Install on ChromeBook](install_chromebook.md)
+    - [Update](update.md)
 
 -----------
 
-[Install on Windows](install_win.md)
-[Install on Mac](install_mac.md)
-[Install on iOS](install_ios.md)
-[Install on Linux](install_linux.md)
-[Install on Android](install_android_dicttango.md)
-[Install on Kindle](install_kindle.md)
-[Install on Kobo](install_kobo.md)
-[Install on ChromeBook](install_chromebook.md)
-[Update](update.md)
+- [WebApp]()
+    - [www.dpdict.net](dpdict.md)
+    - [Search](dpdict_search.md)
+    - [Summary](dpdict_summary.md)
+    - [Dictionary display](dpdict_dictionary_display.md)
+    - [Settings](dpdict_settings.md)
+    - [CST Bold Definitions](dpdict_bd.md)
+    - [API in GoldenDict](dpdict_api_gd.md)
+    - [API in DictTango](dpdict_api_dt.md)
 
 -----------
 
-[GoldenDict: Setup the Hotkey](setup_hotkey.md)
-[GoldenDict: Setup the Scan Popup](setup_scan_popup.md)
-[GoldenDict: Setup Advanced Features](setup_advanced.md)
+- [Integrations]()
+    - [Tipitaka Pali Reader](tpr.md)
+    - [The Buddha's Words](tbw.md)
+    - [Simsapa Dhamma Reader](simsampa.md)
+    - [Sutta Central](sutta_central.md)
+    - [Tipitakapali.org]()
+    - [Dhamma.gift]()
 
 -----------
 
-[Changelog](changelog.md)
+- [Contributing]()
+    - [Help with Coding](coding_help.md)
+    - [Help with Pāḷi]()
 
 -----------
 
-[Bibliography](bibliography.md)
-[Thanks](thanks.md)
-[Feedback Form](feedback_form.md)
-[Help with Coding](coding_help.md)
-[Contact](contact.md)
+- [GoldenDict Features]()
+    - [Setup the Hotkey](setup_hotkey.md)
+    - [Setup the Scan Popup](setup_scan_popup.md)
+    - [Setup Advanced Features](setup_advanced.md)
+
+-----------
+- [Misc]()
+    - [Changelog](changelog.md) 
+    - [Bibliography](bibliography.md)
+    - [Thanks](thanks.md)
+    - [Feedback Form](feedback_form.md)
+    - [Contact](contact.md)
+-----------

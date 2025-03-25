@@ -1,11 +1,31 @@
 # Help with Coding
 
-I am seeking help to code various aspects of the Digital Pāḷi Dictionary project. If you have the expertise and the interest, [please get in touch by email](mailto:digitalpalidictionary@gmail.com).
+If you're a coder and would like to contribute to the project, please get involved.
 
-## Python
+## DPD Project Management
+Here's the [DPD Codebase](https://github.com/orgs/digitalpalidictionary/projects/1/views/2) Project Management on Github with all the open and in-progress issues. Just comment on any issue to find out more, or [please get in touch by email](mailto:digitalpalidictionary@gmail.com).
 
-I am always in need of help from experienced Python programmers, with small and medium sized tasks, as well as code reviews and consultation. 
+## DPD Project repo
 
-## Flutter
+Here's the [dpd-db](https://github.com/digitalpalidictionary/dpd-db)  GitHub repo, which contains the code for all aspects of the project.
 
-As part of a longer-term vision, I would like to develop DPD into a Flutter App. This app would replicate the current lookup functionality of GoldenDict and further allow the integration of many requested features, which are not possible within the GoldenDict framework. The backend would be a SQLite database, with methods to lookup and present the relevant data. This is a longer, more complex project.
+## Technical Docs
+Here are the [technical docs](https://github.com/digitalpalidictionary/dpd-db/blob/main/docs/build_db.md) in the dpd-db repo, for building the database, or just working with pre-built database
+
+## Github Releases
+You can find the [latest releases](https://github.com/digitalpalidictionary/dpd-db/releases) here on Github, which includes the latest version of the database. 
+
+## Languages
+DPD uses a few languages.
+
+- __Python__: Most of the project backend is written in Python.   
+
+- __HTML CSS JS__: All frontend is written in HTML, CSS and vanilla JavaScript.  
+
+- __GO__: A few of the more time-consuming operations, like the Deconstructor and generating Frequency tables, are written in *GO* to take advantage of its speed and concurrency.
+
+- __Markdown__: This website and all the project docs are written in Markdown.  
+
+## App Development
+A long term goal is to create a custom app for DPD and other Pāḷi Dictionaries. This would replicate the current lookup functionality of GoldenDict and further allow the integration of many requested features, which are not possible within the GoldenDict framework. 
+
