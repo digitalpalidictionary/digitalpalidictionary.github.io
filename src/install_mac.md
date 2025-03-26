@@ -2,7 +2,7 @@
 
 ## In Brief
 
-1. download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/digitalpalidictionary/dpd-db/releases/latest)
+1. download the latest version of `dpd-goldendict.zip` from [GitHub](https://github.com/digitalpalidictionary/dpd-db/releases/latest)
 2. install [GoldenDict NG](https://github.com/xiaoyifang/goldendict-ng/releases/latest). Use `macOS-arm64.dmg` for Apple Silicon M1 chip and newer, or `macOS-x86_64.dmg` for Intel AMD64 machines.
 3. in settings, direct GoldenDict to the DPD folder.
 
@@ -44,7 +44,7 @@ Ok, you're installed. Now let's add a dictionary.
 
 ## Download DPD
 
-Download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/digitalpalidictionary/dpd-db/releases/latest). 
+Download the latest version of `dpd-goldendict.zip` from [GitHub](https://github.com/digitalpalidictionary/dpd-db/releases/latest). 
 
 ## Unzip
 

@@ -78,7 +78,7 @@
 ### Websites
 
   *  **Digital Pāli Reader** , accessed through <https://www.digitalpalireader.online/>
-  * **Github** , accessed through <https://github.com/>
+  * **GitHub** , accessed through <https://github.com/>
   * **Sanskrit Grammarian** , accessed through <https://sanskrit.inria.fr/DICO/grammar.fr.html>
   * **Sutta Central** , accessed through <https://suttacentral.net/>
   * **The Buddha's Words** , accessed through <https://thebuddhaswords.net/home/index.html>

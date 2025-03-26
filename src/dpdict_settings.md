@@ -10,7 +10,7 @@ Click the buttons to **increase** or **decrease** the font size to best suit you
 
 ## Light or Dark mode
 
-Adjust between a normal light mode or a dark mode for reduced eye strain.
+Adjust between a light mode or a dark mode for reduced eye strain.
 
 ![light dark mode](pics/dpdict.net/dpdict_settings_light_dark_mode.png)
 
@@ -28,7 +28,7 @@ Select your preferred representation of the 41st letter of the Pāḷi alphabet.
 
 ## Grammar button closed or open
 
-If you like the **grammar button** visible, turn this setting on.
+If you prefer the **grammar button** visible, turn this setting on.
 
 ![grammar open closed](pics/dpdict.net/dpdict_settings_grammar_open.png)
 
@@ -38,7 +38,7 @@ All new words will display with the grammar button open by default.
 
 ## Examples button closed or open
 
-If you like the **example button** visible, turn this setting on.
+If you prefer the **example button** visible, turn this setting on.
 
 ![example button open closed](pics/dpdict.net/dpdict_settings_example_closed_open.png)
 
@@ -48,19 +48,19 @@ All new words will display with the examples open by default.
 
 ## One button at a time
 
-By default every time you open a new button, it will display. When this settings is selected, only one button will display at a time.
+By default, opening a new button displays its content without closing others. When this setting is selected, only one button will display at a time.
 
 ![alt text](pics/dpdict.net/dpdict_settings_one_button_at_a_time.png)
 
 ## Summary 
 
-Hide or display the summary of results at the top of the page. This settings is turned on by default. 
+Hide or display the summary of results at the top of the page. This setting is turned on by default. 
 
 ![summary](pics/dpdict.net/dpdict_settings_summary_show.png)
 
 ## Show sandhi with '
 
-By default all sandhi in DPD is indicated with an single apostrophe **'**. This settings turns hides and shows the sandhi marker.
+By default all sandhi in DPD is indicated with a single apostrophe **'**. This setting hides and shows the sandhi marker.
 
 ![sandhi hide show](pics/dpdict.net/dpdict_settings_sandhi_hide_show.png)
 

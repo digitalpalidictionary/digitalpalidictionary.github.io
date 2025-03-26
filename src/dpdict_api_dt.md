@@ -1,6 +1,6 @@
-## Setup API in DictTango
+## Set up API in DictTango
 
-Here's how to setup DPD as a live searchable website in DictTango. 
+Here's how to set up DPD as a live searchable website in DictTango. 
 
 This has the advantage of being quite quick and easy to set up and always being up-to-date with the latest DPD database, and the disadvantage of being a second slower. 
 
@@ -16,7 +16,7 @@ Select **Add Online Dictionary**.
 
 ![Add Online Dictionary](pics/dpdict.net/dpdict_api_dicttango_add_online_dictionary.jpg)
 
-Add the following information to **Edit Dictionary Detail**:
+Add the following information to **Edit Dictionary Details**:
 
 Dictionary Name: www.dpdict.net\
 Dictionary URL: https://www.dpdict.net/gd?search=#KEYWORD#

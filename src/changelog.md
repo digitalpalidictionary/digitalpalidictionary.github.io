@@ -2,7 +2,7 @@
 
 ## 2025-03-14
 
-### Github Issues Closed
+### GitHub Issues Closed
 - [#58 Add CST bold definitions to WebApp](https://github.com/digitalpalidictionary/dpd-db/issues/58)
 - [#59 'Database locked' error in WebApp](https://github.com/digitalpalidictionary/dpd-db/issues/59)
 - [#60 HTTP / HTTPS mixed content error in WebApp](https://github.com/digitalpalidictionary/dpd-db/issues/60)

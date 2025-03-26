@@ -1,10 +1,10 @@
 # Word Frequency
 
-Clicking the **frequency** button will give you an instant overview of where & how often a word can be found in the [Chaṭṭha Saṅgāyana](https://www.tipitaka.org/) corpus.
+Clicking the **frequency** button will give you an instant overview of where and how often a word can be found in the [Chaṭṭha Saṅgāyana](https://www.tipitaka.org/) corpus.
 
 ![image](pics/frequency/frequency-overview.png)
 
-These word frequency maps can provide an instantly accessible snapshot of word usage in different strata of texts, and a entry point for further investigation into how Pāḷi words and associated concepts developed over the course of time.
+These word frequency maps can provide an instantly accessible snapshot of word usage in different strata of texts, and an entry point for further investigation into how Pāḷi words and associated concepts developed over the course of time.
 
 ### Matches
 
@@ -21,11 +21,11 @@ A **dash** "-" indicates 0 instances of a word in that section.
 
 ### False Positives
 
-All matching inflections are counted, resulting in false positives for words with with identical inflections, e.g. assu (nt nom sg of "tear") and assu (opt 3rd pl of "they could be").
+All matching inflections are counted, resulting in false positives for words with identical inflections, e.g. assu (nt nom sg of "tear") and assu (opt 3rd pl of "they could be").
 
 ---
 
-Here follows an explanation of some of the quirks of the Chaṭṭha Saṅgāyana corpus subdivision as represented here. 
+Here is an explanation of some of the quirks of the Chaṭṭha Saṅgāyana corpus subdivision as represented here. 
 
 ## Vinaya Ṭīkā
 
@@ -41,7 +41,7 @@ This section includes Sāratthadīpanī-ṭīkā, Dvemātikāpāḷi, Vinayasa�
 
 ![image](pics/frequency/khuddaka.png)
 
-The Khuddaka Nikāya contains much material that differs not only in linguistic style, but also conceptually. It has been divied into three relevant sections for easy reference:
+The Khuddaka Nikāya contains much material that differs not only in linguistic style, but also conceptually. It has been divided into three relevant sections for easy reference:
 
 ### 1. Early Wisdom Collection:
 
@@ -49,7 +49,7 @@ These books are mostly consistent with the four nikāyas of the Sutta Piṭaka i
 
 Khuddakapāṭhapāḷi, Dhammapadapāḷi, Udānapāḷi, Itivuttakapāḷi, Suttanipātapāḷi, Theragāthāpāḷi, Therīgāthāpāḷi.
 
-Please note there are *aṭṭhakathā* but no *ṭīkā* for all these books
+Please note that there are *aṭṭhakathā* but no *ṭīkā* for all these books
 
 ### 2. Late Story Collection:
 
@@ -59,7 +59,7 @@ Vimānavatthupāḷi, Petavatthupāḷi, Apadānapāḷi-1, Apadānapāḷi-2, B
 
 Again, there are *aṭṭhakathā* but no *ṭīkā* for these books
 
-### 3. Commentarial & Abhidhammic Texts:
+### 3. Commentarial and Abhidhammic Texts:
 
 These late books contain the earliest known exegetical material and the beginnings of Abhidhamma-style analysis.
 
@@ -81,7 +81,7 @@ The Aññā section contains a wealth of material from the commentarial era, all
 
 ![image](pics/frequency/a%C3%B1%C3%B1%C4%81-abhidhamma.png)
 
-All the books which are not directly related to the 7 books of the Abhidhamma Piṭaka are included in Aññā Abhidhamma. This section includes summaries and overviews:  Abhidhammāvatāro-nāmarūpaparicchedo, the well-known Abhidhammatthasaṅgaho, Abhidhammāvatāra-purāṇaṭīkā, and Abhidhammamātikāpāḷi.
+All the books that are not directly related to the 7 books of the Abhidhamma Piṭaka are included in Aññā Abhidhamma. This section includes summaries and overviews:  Abhidhammāvatāro-nāmarūpaparicchedo, the well-known Abhidhammatthasaṅgaho, Abhidhammāvatāra-purāṇaṭīkā, and Abhidhammamātikāpāḷi.
 
 ### Aññā Visuddhimagga
 

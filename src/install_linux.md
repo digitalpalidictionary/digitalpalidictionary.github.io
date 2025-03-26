@@ -10,7 +10,7 @@ Below are detailed *step-by-step* instructions.
 
 ## Download DPD
 
-First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/dpd-db/releases/latest).
+First things first, download the latest version of Digital Pāḷi Dictionary from [GitHub](https://github.com/digitalpalidictionary/dpd-db/releases/latest).
 
 ## Make a GoldenDict folder
 

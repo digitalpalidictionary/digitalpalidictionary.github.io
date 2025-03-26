@@ -24,7 +24,7 @@ for more info [click here](rootdict.md)
 
 ![helpdict](pics/features/5helpabbreviations.png)
 
-## Two supplemetary dictionaries
+## Two supplementary dictionaries
 There are two additional dictionary packs which work in concert with DPD. The first is dedicated to [sandhi splitting and compound deconstruction](sandhi.md), and the second is a [grammar dictionary](grammardict.md) which can explain the case of every inflected word in a text. Click the links to learn more.
 
 ## DPD recognises 1.5 million unique inflected forms of Pāḷi words
@@ -60,7 +60,7 @@ If words with multiple meanings are derived from different sources, their number
 
 ![renumbering](pics/feature/../features/renumbering.png)
 
-In the example above, 1.1 and 1.2 both are related to Sanskrit *śara* , while 2.1 is derived from the root √sar (to make sound), Sansksrit *svara*.
+In the example above, 1.1 and 1.2 are both related to Sanskrit *śara* , while 2.1 is derived from the root √sar (to make sound), Sanskrit *svara*.
 
 ## Word Data's Degree of Completion
 
@@ -137,7 +137,7 @@ If the headword itself is a compound, all compound families of the component wor
 
 ## Word Frequency
 
-Click the **frequency** button to see a heat map of where & how often a word can be found in the Chaṭṭha Saṅgāyana corpus.
+Click the **frequency** button to see a heat map of where and how often a word can be found in the Chaṭṭha Saṅgāyana corpus.
 
 ![image](pics/features/frequency.png)
 
@@ -193,4 +193,4 @@ If you prefer a sans-serif font, please install [Noto Sans](https://fonts.google
 ----------------------
 
 
-Enough in theory, here's how to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android_dicttango.md)) or [update](update.md) once a month if you're already installed.
+Enough in theory, here's how to get GoldenDict installed and set up on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android_dicttango.md)) or [update](update.md) once a month if you're already set up.

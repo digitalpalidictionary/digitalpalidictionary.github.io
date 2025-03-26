@@ -9,4 +9,4 @@ The project uses Google Forms for these. The quickest way to access the forms is
 
 ![add and correct](pics/contributing/add_correct.png)
 
-If you would tackle something more substantial, please [get in touch by email](mailto:digitalpalidictionary@gmail.com) and we can discuss some options for further involvement.
+If you would like to tackle something more substantial, please [get in touch by email](mailto:digitalpalidictionary@gmail.com) and we can discuss some options for further involvement.

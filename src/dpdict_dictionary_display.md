@@ -1,6 +1,6 @@
 ## Dictionary Display
 
-[www.dpdict.net](https://www.dpdict.net) displays all the DPD dictionaries including :
+[www.dpdict.net](https://www.dpdict.net) displays all the DPD dictionaries including
 
 ### 1. DPD main
 
@@ -22,11 +22,11 @@
 
 ![grammar dict](pics/dpdict.net/dpdict_grammar_dict.png)
 
-### 5. Help & Abbreviations
+### 6. Help & Abbreviations
 
 ![help](pics/dpdict.net/dpdict_help.png)
 
-### 6. English to Pāḷi dictionary
+### 7. English to Pāḷi dictionary
 
 ![epd](pics/dpdict.net/dpdict_epd.png)
 

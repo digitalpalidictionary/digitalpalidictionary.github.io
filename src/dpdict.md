@@ -4,7 +4,7 @@ DPD is now available as a website [www.dpdict.net](https://www.dpdict.net) with 
 
 ![website full page](pics/dpdict.net/dpdict_fullapge.png)
 
-The website is slightly slower than using a dedicated app like GoldenDict, MDict or DictTango, but has the advantage of always being up to date with the latest database information. No updating is necessary.
+The website is slightly slower than using a dedicated app like GoldenDict, MDict or DictTango, but has the advantage of always being up-to-date with the latest database information. No updating is necessary.
 
 You can also use [www.dpdict.net](https://www.dpdict.net) as an API to get the latest DPD info in [GoldenDict](dpdict_api_gd.md) and [DictTango](dpdict_api_dt.md).
 

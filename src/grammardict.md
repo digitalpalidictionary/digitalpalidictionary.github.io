@@ -10,4 +10,4 @@ If you're like me, you probably don't know your inflection tables for reflexive 
 
 ![mantavho](pics/grammar/mantavho.png)
 
-(If this helps or hinders Pāḷi students remains to be seen : )
+Whether this helps or hinders Pāḷi students remains to be seen.

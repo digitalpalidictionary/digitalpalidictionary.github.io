@@ -14,7 +14,7 @@ Below are detailed *step-by-step* text instructions.
 
 ## Install GoldenDict
 
-Download the latest version of GoldenDict NG from [Github](https://github.com/xiaoyifang/goldendict-ng/releases/latest). Look for `Windows-installer.exe`
+Download the latest version of GoldenDict NG from [GitHub](https://github.com/xiaoyifang/goldendict-ng/releases/latest). Look for `Windows-installer.exe`
 
 Go to your `Downloads` folder and double click `GoldenDict-ng-version-xyz-Windows-installer.exe`
 
@@ -50,7 +50,7 @@ Click Finish
 
 ## Download DPD
 
-Download the latest version of `dpd-goldendict.zip` from [Github](https://github.com/digitalpalidictionary/dpd-db/releases/latest).
+Download the latest version of `dpd-goldendict.zip` from [GitHub](https://github.com/digitalpalidictionary/dpd-db/releases/latest).
 
 ## Make a GoldenDict folder
 

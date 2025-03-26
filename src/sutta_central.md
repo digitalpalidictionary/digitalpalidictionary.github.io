@@ -12,7 +12,7 @@ To activate DPD lookup
 
 - Find the **Active Pali word lookup** section
 
-- Turn on **English**
+- Turn on **English**.
 
 ![english](pics/sutta_central/views_english.jpg)
 
