@@ -1,11 +1,11 @@
 # Install DictTango on Android
 
-This will help you to get DPD setup and configured in the DictTango app.
+This will help you to get DPD set up and configured in the DictTango app.
 
 ## About DictTango
 
 DictTango uses MDict files, but offers a far better user experience than the MDict app itself.
-- Open any word from a PDF or website by long-clinging and using the Android popup menu.
+- Open any word from a PDF or website by long-clicking and using the Android popup menu.
 - Once inside the app, words can be navigated with a single-click.
 - It also offers full text search as well as numerous other advanced features.
 
@@ -64,11 +64,11 @@ Please follow them *carefully* to get full DPD functionality.
 
 ## Display All Entries
 
-To see all DPD entries, follow the steps below. Otherwise you will only see the first entry.
+To see all DPD entries, follow the steps below. Otherwise, DictTango will only display the entry from the first dictionary it finds.
 
-1. Click the **menu button** in the top right-hand corner.
+1. Click the **menu icon** in the top right-hand corner.
 
-![menu button](pics/dicttango2/4_menu.jpg)
+![menu icon](pics/dicttango2/4_menu.jpg)
 
 2. Select **Dictionary Group**.
 
@@ -99,7 +99,7 @@ That's it. Now you'll see all entries from all dictionaries.
 
 ## Change the Dictionary Order
 
-While you are there, you can change the order that dictionaries are displayed in.
+While you are there, you can change the order in which dictionaries are displayed.
 
 1. Click the **Sorting Mode Button** in the top right-hand corner
 
@@ -114,9 +114,9 @@ While you are there, you can change the order that dictionaries are displayed in
 
 If you prefer dark mode, then
 
-1. Click the **menu-button** in the top right-hand corner.
+1. Click the **menu-icon** in the top right-hand corner.
 
-![menu button](pics/dicttango2/4_menu.jpg)  
+![menu icon](pics/dicttango2/4_menu.jpg)  
 
 2. Click on **Settings**
 
