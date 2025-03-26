@@ -49,9 +49,17 @@
 
 -----------
 
+- [Feedback]()
+    - [Correct a Mistake](feedback_correct_mistake.md)
+    - [Add a Missing Word](feedback_add_missing_word.md)
+    - [Report a Bug](feedback_bug_report.md)
+    - [Email Contact](feedback_email.md)
+
+-----------
+
 - [Contributing]()
-    - [Help with Coding](coding_help.md)
-    - [Help with Pāḷi]()
+    - [Help with Coding](contributing_code.md)
+    - [Help with Pāḷi](contributing_pali.md)
 
 -----------
 
@@ -61,10 +69,10 @@
     - [Setup Advanced Features](setup_advanced.md)
 
 -----------
+
 - [Misc]()
     - [Changelog](changelog.md) 
     - [Bibliography](bibliography.md)
     - [Thanks](thanks.md)
-    - [Feedback Form](feedback_form.md)
     - [Contact](contact.md)
 -----------

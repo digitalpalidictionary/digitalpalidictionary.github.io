@@ -9,7 +9,7 @@ Simsapa aims to be an all-in-one app which contains
 - dhammatalks.org Translations by Ajahn Ṭhānissaro
 - numerous Dhamma ebooks
 - Gretil Sanskrit texts
-- Sanskrit dictioanaries
+- Sanskrit dictionaries
 - and more
 
 ![simsapa sutta study](pics/simsapa/simsapa_sutta_study.png)
@@ -18,6 +18,6 @@ Simsapa aims to be an all-in-one app which contains
 
 ![simsapa links](pics/simsapa/simsapa_links.png)
 
-Every time a new there is a new DPD release, Simsapa automatically updates itself with the latest DPD database information.
+Every time there is a new DPD release, Simsapa automatically updates itself with the latest DPD database information.
 
 For more information and how to install, visit the [Simsapa website](https://simsapa.github.io/).

@@ -8,7 +8,7 @@ To activate DPD lookup
 
 - Open a sutta, such [MN1](https://suttacentral.net/mn1/en/sujato)
 
-- Click the **views** button 
+- Click the **Views** button 
 
 - Find the **Active Pali word lookup** section
 
