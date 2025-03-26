@@ -10,4 +10,4 @@ This summary can be turned off in the settings.
 
 ![hide summary](pics/dpdict.net/dpdict_settings_summary_hide.png)
 
-NEXT: [Settings](dpdict_settings.md)
+NEXT: [Settings](dpdict_settings.md) 
