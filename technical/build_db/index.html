@@ -1301,8 +1301,6 @@
       
         
       
-        
-      
     
     
     
@@ -1398,28 +1396,6 @@
   
   <span class="md-ellipsis">
     Report a Bug
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../feedback/email/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Contact by Email
     
   </span>
   
@@ -1993,28 +1969,28 @@
   <h1>Build the DB from Scratch</h1>
 
 <h2 id="building-the-db-from-scratch">Building the DB from scratch</h2>
-<p>-- Download the repo</p>
+<p>(1) Download the repo</p>
 <div class="language-shell highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>git<span class="w"> </span>clone<span class="w"> </span>--depth<span class="o">=</span><span class="m">1</span><span class="w"> </span>https://github.com/digitalpalidictionary/dpd-db.git
 </span></code></pre></div>
-<p>-- Navigate into the directory</p>
+<p>(2) Navigate into the directory</p>
 <div class="language-shell highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="nb">cd</span><span class="w"> </span>dpd-db
 </span></code></pre></div>
-<p>-- Download the submodules from Github</p>
+<p>(3) Download the submodules from Github</p>
 <div class="language-shell highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a>git<span class="w"> </span>submodule<span class="w"> </span>init<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>git<span class="w"> </span>submodule<span class="w"> </span>update
 </span></code></pre></div>
-<p>-- Install <a href="https://nodejs.org/en/download" target="_blank">nodejs</a> for your operating system</p>
-<p>-- Install <a href="https://go.dev/doc/install" target="_blank">go</a> for your operating system</p>
-<p>-- Install <a href="https://astral.sh/uv/install" target="_blank">uv</a> for your operating system</p>
+<p>(4) Install <a href="https://nodejs.org/en/download" target="_blank">nodejs</a> for your operating system</p>
+<p>(5) Install <a href="https://go.dev/doc/install" target="_blank">go</a> for your operating system</p>
+<p>(6) Install <a href="https://astral.sh/uv/install" target="_blank">uv</a> for your operating system</p>
 <div class="language-bash highlight"><pre><span></span><code><span id="__span-3-1"><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a>curl<span class="w"> </span>-LsSf<span class="w"> </span>https://astral.sh/uv/install.sh<span class="w"> </span><span class="p">|</span><span class="w"> </span>sh
 </span></code></pre></div>
-<p>-- Install all the dependencies with uv
+<p>(7) Install all the dependencies with uv</p>
 <div class="language-bash highlight"><pre><span></span><code><span id="__span-4-1"><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a>uv<span class="w"> </span>sync
-</span></code></pre></div></p>
-<p>-- Having at least 20 GB of RAM can be helpful. If you have less, consider <a href="https://www.reddit.com/r/linuxmint/comments/uhjyir/how_to_increase_swap_size/?rdt=34113" target="_blank">increasing the swap memory.</a>.</p>
-<p>-- Run this once to initialize the project</p>
+</span></code></pre></div>
+<p>(8) Having at least 20 GB of RAM can be helpful. If you have less, consider <a href="https://www.reddit.com/r/linuxmint/comments/uhjyir/how_to_increase_swap_size/?rdt=34113" target="_blank">increasing the swap memory.</a>.</p>
+<p>(9) Run this once to initialize the project</p>
 <div class="language-shell highlight"><pre><span></span><code><span id="__span-5-1"><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a>uv<span class="w"> </span>run<span class="w"> </span>bash<span class="w"> </span>scripts/bash/initial_setup_run_once.sh
 </span></code></pre></div>
-<p>-- Build the database, this can take up to an hour the first time.</p>
+<p>(10) Build the database, this can take up to an hour the first time.</p>
 <div class="language-shell highlight"><pre><span></span><code><span id="__span-6-1"><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a>uv<span class="w"> </span>run<span class="w"> </span>bash<span class="w"> </span>scripts/bash/initial_build_db.sh
 </span></code></pre></div>
 <p>That should create an SQLite database <code>dpd.db</code> in the root folder which can be accessed with <a href="https://sqlitebrowser.org/" target="_blank">DB Browser</a>, <a href="https://dbeaver.io/" target="_blank">DBeaver</a>, through <a href="https://www.sqlalchemy.org/" target="_blank">SQLAlechmy</a> or your preferred method.</p>

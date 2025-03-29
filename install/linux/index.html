@@ -1313,8 +1313,6 @@
       
         
       
-        
-      
     
     
     
@@ -1410,28 +1408,6 @@
   
   <span class="md-ellipsis">
     Report a Bug
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../feedback/email/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Contact by Email
     
   </span>
   
@@ -1931,39 +1907,41 @@
 <p>Below are detailed <em>step-by-step</em> instructions. </p>
 <h1 id="detailed-instructions">Detailed Instructions</h1>
 <h2 id="download-dpd">Download DPD</h2>
-<p>First things first, download the latest version of Digital Pāḷi Dictionary from <a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest" target="_blank">GitHub</a>.</p>
+<p>(1) First things first, download the latest version of Digital Pāḷi Dictionary from <a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest" target="_blank">GitHub</a>.</p>
 <h2 id="make-a-goldendict-folder">Make a GoldenDict folder</h2>
-<p>It is recommended to make an easily accessible GoldenDict folder, for example /Documents/GoldenDict</p>
+<p>(2) It is recommended to make an easily accessible GoldenDict folder, for example /Documents/GoldenDict</p>
 <p><img alt="create new folder" src="../../pics/linux-install/create%20new%20folder.png" /></p>
-<p>Or in the terminal\
-<code>mkdir /home/your_user_name/Documents/GoldenDict</code></p>
-<p>(Obviously, substitute your_user_name with your actual user name)</p>
+<p>Or in the terminal</p>
+<p><code>mkdir /home/your_user_name/Documents/GoldenDict</code></p>
+<p>(Obviously, substitute <code>your_user_name</code> with your actual user name)</p>
 <h2 id="unzip">Unzip</h2>
-<p>Right-click the DPD zip file in your Downloads folder and open it with Archive Manager.</p>
+<p>(3) Right-click the DPD zip file in your Downloads folder and open it with Archive Manager.</p>
 <p><img alt="archive manager" src="../../pics/linux-install/archive%20manager.png" /></p>
 <p>Click Extract and select the folder <code>/Documents/GoldenDict</code></p>
 <p><img alt="extract" src="../../pics/linux-install/extract.png" /></p>
 <p>Or in the terminal:</p>
-<p><code>cd home/your_user_name/Downloads</code>\
-<code>unzip /home/your_user_name/Downloads/dpd.zip -d /home/your_user_name/Documents/GoldenDict</code></p>
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="nb">cd</span><span class="w"> </span>home/your_user_name/Downloads
+</span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>unzip<span class="w"> </span>/home/your_user_name/Downloads/dpd.zip<span class="w"> </span>-d<span class="w"> </span>/home/your_user_name/Documents/GoldenDict<span class="sb">`</span>
+</span></code></pre></div>
 <h2 id="install-goldendict">Install GoldenDict</h2>
-<p>GoldenDict can be installed directly with apt-get:</p>
-<p><code>sudo apt-get update</code>\
-<code>sudo apt-get install goldendict</code></p>
+<p>(4) GoldenDict can be installed directly with apt-get:</p>
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>sudo<span class="w"> </span>apt-get<span class="w"> </span>update
+</span><span id="__span-1-2"><a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a>sudo<span class="w"> </span>apt-get<span class="w"> </span>install<span class="w"> </span>goldendict
+</span></code></pre></div>
 <p>Or choose the distribution of your choice from <a href="https://pkgs.org/download/goldendict" target="_blank">https://pkgs.org/download/goldendict</a>:</p>
 <p>Or directly from the Software Manager:</p>
 <p><img alt="software manager" src="../../pics/linux-install/software%20manager.png" /></p>
 <p>Make sure to install version 1.5, not version 1.0!</p>
 <h2 id="adding-dictionaries-to-goldendict">Adding Dictionaries to GoldenDict</h2>
-<p>Launch the GoldenDict application</p>
-<p>Go to Menu &gt; Edit &gt; Dictionaries (Shortcut <strong>F3</strong>)</p>
+<p>(6) Launch the GoldenDict application</p>
+<p>(7) Go to Menu &gt; Edit &gt; Dictionaries (Shortcut <strong>F3</strong>)</p>
 <p><img alt="dictionaries F3" src="../../pics/linux-install/dictionaries%20F3.png" /></p>
-<p>Go to Sources &gt; Files.\
-Click Add and select folder <code>/Documents/GoldenDict</code></p>
+<p>(8) Go to Sources &gt; Files.</p>
+<p>(9) Click Add and select folder <code>/Documents/GoldenDict</code></p>
 <p><img alt="add" src="../../pics/linux-install/add.png" /></p>
-<p>Click the recursive tick box √ (this makes sure GoldenDict searches in sub-folders)</p>
+<p>(10) Click the recursive tick box √ (this makes sure GoldenDict searches in sub-folders)</p>
 <p><img alt="recursive" src="../../pics/linux-install/recursive.png" /></p>
-<p>Click OK and wait a few moments while the dictionaries are indexing.</p>
+<p>(11) Click OK and wait a few moments while the dictionaries are indexing.</p>
 <p>You're all setup!</p>
 <p>Next learn how to <a href="../../goldendict/hotkey/">setup the hotkey</a> or <a href="../../goldendict/scan_popup/">scan popup</a> so you can click on any Pāḷi word in any text and open it immediately in the dictionary.</p>
 
