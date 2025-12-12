@@ -2569,10 +2569,10 @@
 </span></code></pre></div>
 <p>(9) Having at least 20 GB of RAM can be helpful. If you have less, consider <a href="https://www.reddit.com/r/linuxmint/comments/uhjyir/how_to_increase_swap_size/?rdt=34113" target="_blank">increasing the swap memory.</a>.</p>
 <p>(10) Run this once to initialize the project</p>
-<div class="language-shell highlight"><pre><span></span><code><span id="__span-5-1"><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a>uv<span class="w"> </span>run<span class="w"> </span>bash<span class="w"> </span>scripts/bash/initial_setup_run_once.sh
+<div class="language-shell highlight"><pre><span></span><code><span id="__span-5-1"><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a>uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>scripts/bash/initial_setup_run_once.py
 </span></code></pre></div>
 <p>(11) Build the database, this can take up to an hour the first time.</p>
-<div class="language-shell highlight"><pre><span></span><code><span id="__span-6-1"><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a>uv<span class="w"> </span>run<span class="w"> </span>bash<span class="w"> </span>scripts/bash/initial_build_db.sh
+<div class="language-shell highlight"><pre><span></span><code><span id="__span-6-1"><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a>uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>scripts/bash/initial_build_db.py
 </span></code></pre></div>
 <p>That should create an SQLite database <code>dpd.db</code> in the root folder which can be accessed with <a href="https://sqlitebrowser.org/" target="_blank">DB Browser</a>, <a href="https://dbeaver.io/" target="_blank">DBeaver</a>, through <a href="https://www.sqlalchemy.org/" target="_blank">SQLAlechmy</a> or your preferred method.</p>
 <p>For a quick tutorial on how to access any information in the db with SQLAlchemy, see <a href="../use_db/">Using the db</a></p>
