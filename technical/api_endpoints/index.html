@@ -2949,14 +2949,21 @@
 <ul>
 <li><strong>URL:</strong> <code>/audio/{headword}</code></li>
 <li><strong>Method:</strong> <code>GET</code></li>
-<li><strong>Description:</strong> Serves the audio file for a specific headword.</li>
+<li><strong>Description:</strong> Serves the audio file for a specific headword with byte-range support.</li>
 <li><strong>Parameters:</strong><ul>
 <li><code>headword</code> (path parameter): The headword to retrieve audio for.</li>
 <li><code>gender</code> (query parameter, optional): Preferred voice gender ("male" or "female"). Defaults to "male".</li>
 </ul>
 </li>
-<li><strong>Response:</strong> Audio file (<code>audio/mpeg</code>) or 404 if not found.</li>
+<li><strong>Response:</strong> Audio file (<code>audio/mpeg</code>). Returns <code>200 OK</code> for full file, <code>206 Partial Content</code> for range requests, or <code>404 Not Found</code> if the headword does not exist.</li>
 </ul>
+<p><strong>Examples:</strong>
+- <code>GET /audio/buddha?gender=male</code>
+- <code>GET /audio/buddha?gender=female</code>
+- <code>GET /audio/dhamma?gender=male</code>
+- <code>GET /audio/dhamma?gender=female</code>
+- <code>GET /audio/saṅgha?gender=male</code>
+- <code>GET /audio/saṅgha?gender=female</code></p>
 
 
 
