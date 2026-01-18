@@ -9,7 +9,7 @@
       
       
       
-        <link rel="prev" href="../quick_start/">
+        <link rel="prev" href="../local_server_setup/">
       
       
         <link rel="next" href="../use_db/">
@@ -2175,6 +2175,8 @@
       
         
       
+        
+      
     
     
     
@@ -2239,6 +2241,34 @@
     
   
     Quick Start Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../local_server_setup/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Local Server Setup
   
 
     
@@ -2623,15 +2653,16 @@
 <p>(6) Install <a href="https://astral.sh/uv/install" target="_blank">uv</a> for your operating system</p>
 <div class="language-bash highlight"><pre><span></span><code><span id="__span-3-1"><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a>curl<span class="w"> </span>-LsSf<span class="w"> </span>https://astral.sh/uv/install.sh<span class="w"> </span><span class="p">|</span><span class="w"> </span>sh
 </span></code></pre></div>
-<p>(7) For Mac user may be nessesary install <a href="https://doc.rust-lang.org/cargo/getting-started/installation.html" target="_blank">Cargo</a></p>
-<p>(8) Install all the dependencies with uv</p>
+<p>(7) <strong>Python</strong>: <code>uv</code> will automatically manage and install the required Python version for you when you run the sync command below. There is no need to install Python manually.</p>
+<p>(8) For Mac users, it may be necessary to install <a href="https://doc.rust-lang.org/cargo/getting-started/installation.html" target="_blank">Cargo</a></p>
+<p>(9) Install all the dependencies with uv</p>
 <div class="language-bash highlight"><pre><span></span><code><span id="__span-4-1"><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a>uv<span class="w"> </span>sync<span class="w"> </span>--all-groups
 </span></code></pre></div>
-<p>(9) Having at least 20 GB of RAM can be helpful. If you have less, consider <a href="https://www.reddit.com/r/linuxmint/comments/uhjyir/how_to_increase_swap_size/?rdt=34113" target="_blank">increasing the swap memory.</a>.</p>
-<p>(10) Run this once to initialize the project</p>
+<p>(10) Having at least 20 GB of RAM can be helpful. If you have less, consider <a href="https://www.reddit.com/r/linuxmint/comments/uhjyir/how_to_increase_swap_size/?rdt=34113" target="_blank">increasing the swap memory.</a>.</p>
+<p>(11) Run this once to initialize the project</p>
 <div class="language-shell highlight"><pre><span></span><code><span id="__span-5-1"><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a>uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>scripts/bash/initial_setup_run_once.py
 </span></code></pre></div>
-<p>(11) Build the database, this can take up to an hour the first time.</p>
+<p>(12) Build the database, this can take up to an hour the first time.</p>
 <div class="language-shell highlight"><pre><span></span><code><span id="__span-6-1"><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a>uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>scripts/bash/initial_build_db.py
 </span></code></pre></div>
 <p>That should create an SQLite database <code>dpd.db</code> in the root folder which can be accessed with <a href="https://sqlitebrowser.org/" target="_blank">DB Browser</a>, <a href="https://dbeaver.io/" target="_blank">DBeaver</a>, through <a href="https://www.sqlalchemy.org/" target="_blank">SQLAlechmy</a> or your preferred method.</p>
@@ -2679,7 +2710,7 @@
       <nav class="md-footer__inner md-grid" aria-label="Footer" >
         
           
-          <a href="../quick_start/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Quick Start Guide">
+          <a href="../local_server_setup/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Local Server Setup">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
@@ -2689,7 +2720,7 @@
                 Previous
               </span>
               <div class="md-ellipsis">
-                Quick Start Guide
+                Local Server Setup
               </div>
             </div>
           </a>
