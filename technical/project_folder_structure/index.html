@@ -2754,61 +2754,71 @@
 <h1 id="project-folder-structure">Project folder structure</h1>
 <p>Where are all the parts of the project located?</p>
 <h2 id="tree">Tree</h2>
-<p>.<br />
-├── db<br />
-│   ├── backup_tsv<br />
-│   ├── bold_definitions<br />
-│   ├── deconstructor<br />
-│   ├── epd<br />
-│   ├── families<br />
-│   ├── frequency<br />
-│   ├── inflections<br />
-│   ├── lookup<br />
-│   ├── sanskrit<br />
-│   └── sinhala<br />
-├── db_tests<br />
-├── docs<br />
-├── dps<br />
-├── exporter<br />
-│   ├── bold_definitions<br />
-│   ├── deconstructor<br />
-│   ├── goldendict<br />
-│   ├── grammar_dict<br />
+<p>.
+├── db
+│   ├── backup_tsv
+│   ├── bold_definitions
+│   ├── epd
+│   ├── families
+│   ├── grammar
+│   ├── inflections
+│   ├── lookup
+│   ├── sanskrit
+│   ├── suttas
+│   └── variants
+├── db_tests
+├── docs
+├── exporter
+│   ├── apple_dictionary
+│   ├── chrome_extension
+│   ├── deconstructor
+│   ├── goldendict
+│   ├── grammar_dict
 │   ├── kindle
-│   ├── kobo<br />
-│   ├── other_dictionaries<br />
-│   ├── share<br />
-│   ├── sinhala<br />
-│   ├── tbw<br />
-│   ├── tpr<br />
-│   └── webapp<br />
-├── go_modules<br />
-│   ├── deconstructor<br />
-│   ├── dpdDb<br />
-│   ├── frequency<br />
-│   ├── tools<br />
-├── gui<br />
-├── resources<br />
-├── scripts<br />
-│   ├── add<br />
-│   ├── archive<br />
-│   ├── backup<br />
-│   ├── bash<br />
-│   ├── build<br />
-│   ├── export<br />
-│   ├── find<br />
-│   ├── fix<br />
-│   ├── info<br />
-│   ├── tutorial<br />
-├── shared_data<br />
-├── temp<br />
-└── tools  </p>
+│   ├── kobo
+│   ├── mcp
+│   ├── mobile
+│   ├── pdf
+│   ├── share
+│   ├── sutta_central
+│   ├── tbw
+│   ├── tpr
+│   ├── variants
+│   ├── webapp
+│   └── wxt_extension
+├── go_modules
+│   ├── deconstructor
+│   ├── dpdDb
+│   ├── frequency
+│   ├── tools
+├── gui2
+├── resources
+├── scripts
+│   ├── add
+│   ├── archive
+│   ├── bash
+│   ├── build
+│   ├── cl
+│   ├── export
+│   ├── extractor
+│   ├── find
+│   ├── fix
+│   ├── info
+│   ├── onboarding
+│   ├── patch
+│   ├── server
+│   ├── suttas
+│   ├── tutorial
+├── shared_data
+├── temp
+├── tests
+└── tools</p>
 <h2 id="code-structure">Code Structure</h2>
 <p>There are four main parts to the code:</p>
 <ol>
 <li><strong>db</strong>: Create the database and build up the tables of derived data.</li>
 <li><strong>db_tests</strong>: Run data integrity tests on the db.</li>
-<li><strong>gui</strong>: Add new words, edit and update the db with a GUI.  </li>
+<li><strong>gui2</strong>: Add new words, edit and update the db with a GUI.</li>
 <li><strong>exporter</strong>: Compile all the parts and export into various dictionary formats.</li>
 </ol>
 <h2 id="folder-details">Folder details</h2>
@@ -2820,7 +2830,7 @@
 <p><strong>models.py</strong> SQLAlchemy model of the database.</p>
 </li>
 <li>
-<p><strong>db_helpers.py</strong> Helper functions to make create the database, get a session, get column names, etc. </p>
+<p><strong>db_helpers.py</strong> Helper functions to make create the database, get a session, get column names, etc.</p>
 </li>
 <li>
 <p><strong>backup_tsv/</strong> TSV backups of the database source tables</p>
@@ -2832,22 +2842,25 @@
 <p><strong>db/epd/</strong> Compile data for the English to Pāḷi dictionary.</p>
 </li>
 <li>
-<p><strong>families/</strong> Compile HTML and JSON lists to populate the <code>family_compound</code>, <code>family_idiom</code>, <code>family_root</code>, <code>family_word</code> and <code>family_set</code> tables in the database, for easy access. </p>
+<p><strong>families/</strong> Compile HTML and JSON lists to populate the <code>family_compound</code>, <code>family_idiom</code>, <code>family_root</code>, <code>family_word</code> and <code>family_set</code> tables in the database, for easy access.</p>
 </li>
 <li>
-<p><strong>frequency/</strong> Create the frequency maps for every word in CST texts.</p>
+<p><strong>grammar/</strong> Grammar data and processing.</p>
 </li>
 <li>
 <p><strong>inflections/</strong> Populate the <code>inflection_templates</code> table and use that to create HTML inflection tables for every word.</p>
 </li>
 <li>
-<p><strong>lookup/</strong> Populate the <code>lookup</code> table for instant accces to every word in the dictionary. </p>
+<p><strong>lookup/</strong> Populate the <code>lookup</code> table for instant accces to every word in the dictionary.</p>
 </li>
 <li>
 <p><strong>sanskrit/</strong> Data used for updating the <code>sanskrit</code> column in the <code>dpd_headwords</code> table.</p>
 </li>
 <li>
-<p><strong>sinhala/</strong> Data used to populate the <code>sinhala</code> table.</p>
+<p><strong>suttas/</strong> Sutta metadata and processing.</p>
+</li>
+<li>
+<p><strong>variants/</strong> Variant readings data and processing.</p>
 </li>
 </ul>
 </li>
@@ -2869,6 +2882,12 @@
 <p><strong>exporter/</strong> Export the DPD database into various formats.</p>
 <ul>
 <li>
+<p><strong>apple_dictionary/</strong> Export DPD for Apple Dictionary.</p>
+</li>
+<li>
+<p><strong>chrome_extension/</strong> Export DPD as a Chrome browser extension.</p>
+</li>
+<li>
 <p><strong>deconstructor/</strong> Export DPD Deconstructor to GoldenDict and MDict</p>
 </li>
 <li>
@@ -2884,19 +2903,31 @@
 <p><strong>kobo/</strong> Export a light version of DPD for Kobo eReader.</p>
 </li>
 <li>
-<p><strong>other_dictionaries/</strong> Export other Pāḷi and Sanskrit dictionaries to GoldenDict and MDict</p>
+<p><strong>mcp/</strong> Export DPD as an MCP server.</p>
 </li>
 <li>
-<p><strong>sinhala/</strong> Export a light version of DPD in Sinhala to GoldenDict and MDict</p>
+<p><strong>mobile/</strong> Export a light version of DPD for mobile devices.</p>
+</li>
+<li>
+<p><strong>pdf/</strong> Export DPD to PDF format.</p>
+</li>
+<li>
+<p><strong>sutta_central/</strong> Export DPD data for SuttaCentral integration.</p>
 </li>
 <li>
 <p><strong>tbw/</strong> Export a light version of DPD for integration into <a href="https://thebuddhaswords.net/mn/mn1.html" target="_blank">The Buddha's Words website</a>.</p>
 </li>
 <li>
-<p><strong>tpr/</strong> Export DPD grammar deconstructor data for integration into Tipitaka Pali Reader app </p>
+<p><strong>tpr/</strong> Export DPD grammar deconstructor data for integration into Tipitaka Pali Reader app</p>
+</li>
+<li>
+<p><strong>variants/</strong> Export variant readings data.</p>
 </li>
 <li>
 <p><strong>webapp/</strong> A web application using the DPD database and FastApi, hosted at <a href="https://www.dpdict.net" target="_blank">www.dpdict.net</a></p>
+</li>
+<li>
+<p><strong>wxt_extension/</strong> Export DPD as a cross-browser extension using WXT framework.</p>
 </li>
 </ul>
 </li>
@@ -2918,7 +2949,7 @@
 </ul>
 </li>
 <li>
-<p><strong>gui/</strong> A GUI for data capture and running database tests</p>
+<p><strong>gui2/</strong> A GUI for data capture and running database tests</p>
 </li>
 <li>
 <p><strong>resources/</strong> All external resources used by the project, imported as submodules</p>
@@ -2929,6 +2960,9 @@
 </li>
 <li>
 <p><strong>shared_data/</strong> Data used across the project.</p>
+</li>
+<li>
+<p><strong>tests/</strong> Automated tests for the project.</p>
 </li>
 <li>
 <p><strong>tools/</strong> Python modules used across the project.</p>
