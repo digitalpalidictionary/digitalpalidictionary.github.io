@@ -6,8 +6,54 @@
     <description>Monthly updates from the Digital Pāḷi Dictionary.</description>
     <language>en</language>
     <managingEditor>dpd@4nt.org (Bodhirasa)</managingEditor>
-    <lastBuildDate>Sun, 31 May 2026 12:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 12:46:03 GMT</lastBuildDate>
     <atom:link href="https://docs.dpdict.net/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fwd: Digital Pāḷi Dictionary update (1 May 2026)</title>
+      <link>https://docs.dpdict.net/newsletters/#2026-05-02</link>
+      <guid isPermaLink="true">https://docs.dpdict.net/newsletters/#2026-05-02</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Fwd: Digital Pāḷi Dictionary update (1 May 2026)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dear Venerable monastics, professors, and Pāḷi enthusiasts,&lt;/p&gt;
+&lt;p&gt;There are a few useful updates to the dictionary this month.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Saṃyutta Nikāya&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All words in the Saṃyutta Nikāya now have complete information in the dictionary. As Bhikkhu Bodhi so nicely put it, Saṃyutta Nikāya is the "workshop manual" for detailed, nuanced meditation instructions. Please let me know if you come across anything amiss during the course of your reading.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Sutta Names and Codes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can now search for and find detailed information on any &lt;strong&gt;major subdivision&lt;/strong&gt; within the Nikāyas (&lt;em&gt;paṇṇāsapāḷi, paṇṇāsaka, vaggasaṃyuttapāḷi, saṃyutta&lt;/em&gt;), &lt;strong&gt;minor subdivisions&lt;/strong&gt; (&lt;em&gt;vagga&lt;/em&gt;), or &lt;strong&gt;individual discourses&lt;/strong&gt; (&lt;em&gt;sutta&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Just open the &lt;em&gt;sutta / vagga / saṃyutta&lt;/em&gt; tab to find the information you are looking for.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" src="https://docs.dpdict.net/pics/newsletters/5a17fdd8f712.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;You can also search by &lt;strong&gt;sutta code&lt;/strong&gt; (DN1, MN34, SN32.1) to quickly find detailed information, with links to all relevant websites and apps.&lt;/p&gt;
+&lt;p&gt;All &lt;strong&gt;variant names&lt;/strong&gt; within Myanmar, Sri Lankan, Thai, or Sutta Central texts point to the same dictionary entry (e.g. SN34 == jhānasaṃyutta == samādhisaṃyutta)&lt;/p&gt;
+&lt;p&gt;I have completed this systematic cross-referencing for Dīgha, Majjhima, and Saṃyutta Nikāyas. The Vinaya and Aṅguttara Nikāya will follow next.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Theragāthā and Therīgāthā codes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Theragāthā verses can now be found by sequential codes (TH201), chapter and number (TH5.4), or PTS-style codes (THAG5.4). All these point to the same dictionary entry.&lt;/p&gt;
+&lt;p&gt;In the Therīgāthā, you can use the THI prefix (THI56, THI6.7) or the THIG prefix (THIG6.7), as you prefer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- DPD Android app — beta testing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;DPD app&lt;/strong&gt; is still open for beta testing on Android. Thanks to all of you who have given feedback, reported errors, and suggested ideas for new features. It is approaching the point where it is ready for public release. Find out how to &lt;a href="https://digitalpalidictionary.github.io/install/dpd_app/"&gt;download and install the app here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Corrections and Additions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As always, thank you for the abundant dictionary feedback over the past month. There have been many submissions from regular contributors as well as a host of new ones. All your suggestions make the dictionary better for everyone who uses it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Latest release&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With that, I am very pleased to share today's release with you. Download the latest version of DPD for your device using these links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.dpdict.net/"&gt;DPD online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://digitalpalidictionary.github.io/install/dpd_app/"&gt;DPD Android app (beta testing)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-goldendict.zip"&gt;DPD for GoldenDict&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-mdict.zip"&gt;DPD for MDict and DictTango&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-apple.dictionary.zip"&gt;DPD Apple dictionary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kindle.mobi"&gt;DPD for Kindle (mobi)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kindle.epub"&gt;DPD for Kindle (epub)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kobo.zip"&gt;DPD for Kobo eReader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-pdf.zip"&gt;DPD PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-txt.zip"&gt;DPD txt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-slob.zip"&gt;DPD slob&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd.db.tar.bz2"&gt;DPD database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-mobile-db.zip"&gt;DPD mobile database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please share this information with those who might be interested.&lt;/p&gt;
+&lt;p&gt;Wishing you well from Sri Lanka,&lt;/p&gt;
+&lt;p&gt;Bodhirasa&lt;/p&gt;
+&lt;hr /&gt;</description>
+    </item>
     <item>
       <title>Digital Pāḷi Dictionary update (1 May 2026)</title>
       <link>https://docs.dpdict.net/newsletters/#2026-05-01</link>
