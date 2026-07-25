@@ -3011,16 +3011,16 @@
 <p><em><code>synonym_list</code></em> <code>[list]</code> list of all the synonyms</p>
 </li>
 <li>
-<p><strong><code>variant</code></strong> <code>[str]</code> what are the variant readings of the headword found in other Pāḷi texts, comma space separated?</p>
+<p><strong><code>variant</code></strong> <code>[str]</code> <strong>DEPRECATED — always empty.</strong> Superseded by <code>var_text</code>; the data was migrated on 2026-07-25 and the column is dropped at the next db model change.</p>
 </li>
 <li>
-<p><em><code>variant_list</code></em> <code>[list]</code> list of all the variants</p>
+<p><em><code>variant_list</code></em> <code>[list]</code> <strong>DEPRECATED — always empty.</strong> List of all the variants.</p>
 </li>
 <li>
-<p><strong><code>var_phonetic</code></strong> <code>[str]</code> (currently unused) what are other phonetic variants of the headword found in Pāḷi texts, comma space separated?</p>
+<p><strong><code>var_phonetic</code></strong> <code>[str]</code> what are other phonetic variants of the headword found in Pāḷi texts, comma space separated?</p>
 </li>
 <li>
-<p><strong><code>var_text</code></strong> <code>[str]</code> (currently unused) what are the variant readings of the headword found in other Pāḷi texts, comma space separated?</p>
+<p><strong><code>var_text</code></strong> <code>[str]</code> what are the variant readings of the headword found in other Pāḷi texts, comma space separated?</p>
 </li>
 <li>
 <p><strong><code>commentary</code></strong> <code>[str]</code> how does the commentary define the headword, new line separated?</p>
