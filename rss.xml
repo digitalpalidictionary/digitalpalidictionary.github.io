@@ -6,32 +6,100 @@
     <description>Monthly updates from the Digital Pāḷi Dictionary.</description>
     <language>en</language>
     <managingEditor>dpd@4nt.org (Bodhirasa)</managingEditor>
-    <lastBuildDate>Tue, 28 Jul 2026 10:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:35:52 GMT</lastBuildDate>
     <atom:link href="https://docs.dpdict.net/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fwd: Digital Pāḷi Dictionary update (1 May 2026)</title>
-      <link>https://docs.dpdict.net/newsletters/#2026-05-02</link>
-      <guid isPermaLink="true">https://docs.dpdict.net/newsletters/#2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fwd: Digital Pāḷi Dictionary update (1 May 2026)&lt;/strong&gt;&lt;/p&gt;
+      <title>Digital Pāḷi Dictionary update (July 2026)</title>
+      <link>https://docs.dpdict.net/newsletters/#2026-07-29</link>
+      <guid isPermaLink="true">https://docs.dpdict.net/newsletters/#2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Digital Pāḷi Dictionary update (July 2026)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Dear Venerable monastics, professors, and Pāḷi enthusiasts,&lt;/p&gt;
-&lt;p&gt;There are a few useful updates to the dictionary this month.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;- Saṃyutta Nikāya&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;All words in the Saṃyutta Nikāya now have complete information in the dictionary. As Bhikkhu Bodhi so nicely put it, Saṃyutta Nikāya is the "workshop manual" for detailed, nuanced meditation instructions. Please let me know if you come across anything amiss during the course of your reading.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;- Sutta Names and Codes&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You can now search for and find detailed information on any &lt;strong&gt;major subdivision&lt;/strong&gt; within the Nikāyas (&lt;em&gt;paṇṇāsapāḷi, paṇṇāsaka, vaggasaṃyuttapāḷi, saṃyutta&lt;/em&gt;), &lt;strong&gt;minor subdivisions&lt;/strong&gt; (&lt;em&gt;vagga&lt;/em&gt;), or &lt;strong&gt;individual discourses&lt;/strong&gt; (&lt;em&gt;sutta&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;Just open the &lt;em&gt;sutta / vagga / saṃyutta&lt;/em&gt; tab to find the information you are looking for.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" src="https://docs.dpdict.net/pics/newsletters/5a17fdd8f712.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;You can also search by &lt;strong&gt;sutta code&lt;/strong&gt; (DN1, MN34, SN32.1) to quickly find detailed information, with links to all relevant websites and apps.&lt;/p&gt;
-&lt;p&gt;All &lt;strong&gt;variant names&lt;/strong&gt; within Myanmar, Sri Lankan, Thai, or Sutta Central texts point to the same dictionary entry (e.g. SN34 == jhānasaṃyutta == samādhisaṃyutta)&lt;/p&gt;
-&lt;p&gt;I have completed this systematic cross-referencing for Dīgha, Majjhima, and Saṃyutta Nikāyas. The Vinaya and Aṅguttara Nikāya will follow next.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;- Theragāthā and Therīgāthā codes&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Theragāthā verses can now be found by sequential codes (TH201), chapter and number (TH5.4), or PTS-style codes (THAG5.4). All these point to the same dictionary entry.&lt;/p&gt;
-&lt;p&gt;In the Therīgāthā, you can use the THI prefix (THI56, THI6.7) or the THIG prefix (THIG6.7), as you prefer.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;- DPD Android app — beta testing&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;DPD app&lt;/strong&gt; is still open for beta testing on Android. Thanks to all of you who have given feedback, reported errors, and suggested ideas for new features. It is approaching the point where it is ready for public release. Find out how to &lt;a href="https://digitalpalidictionary.github.io/install/dpd_app/"&gt;download and install the app here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There have been a number of interesting updates to the dictionary over the past two months.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Aṅguttara Nikāya 3 &amp;amp; 4&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Tikanipāta (AN3) and Catukkanipāta (AN4) of the Aṅguttara Nikāya&lt;/strong&gt; now have complete information in the dictionary. AN4 is an especially rich book, which I enjoyed re-reading immensely. In the natural course of your sutta study, please let me know if you come across any sense of a word that is not recorded.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- DPD Android App&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The biggest addition to the &lt;strong&gt;DPD Android app&lt;/strong&gt; is a &lt;strong&gt;floating bubble&lt;/strong&gt;. Highlight a Pāḷi word in &lt;em&gt;any&lt;/em&gt; other app, reader, web browser, PDF, or chat message. Tap the bubble and the dictionary entry appears straight away.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="share_3365530719707884058.png" src="https://docs.dpdict.net/pics/newsletters/e0a09c53d3e5.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;To turn it on, click the icon in the header and give the necessary permissions.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Screenshot_20260729-112357.png" src="https://docs.dpdict.net/pics/newsletters/c957ad0fd41a.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;Also included in the Android app are &lt;strong&gt;more Pāḷi, Sanskrit, and English dictionaries&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPD Critical Pāli Dictionary&lt;/li&gt;
+&lt;li&gt;DPPN Dictionary of Pāli Proper Names (revised by Ven. Ānandajoti)&lt;/li&gt;
+&lt;li&gt;PEU Pāli English Ultimate (Ven. Subhuti's ongoing project to translate the Burmese Abhidhāna)&lt;/li&gt;
+&lt;li&gt;Nyanatiloka's Buddhist Dictionary&lt;/li&gt;
+&lt;li&gt;Open English WordNet&lt;/li&gt;
+&lt;li&gt;MW Monier-Williams Sanskrit-English Dictionary&lt;/li&gt;
+&lt;li&gt;Edgerton Buddhist Hybrid Sanskrit Dictionary&lt;/li&gt;
+&lt;li&gt;Apte Practical Sanskrit-English Dictionary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you already have the app installed, it will update itself. If not, find out how to &lt;a href="https://digitalpalidictionary.github.io/install/dpd_app/"&gt;download and install the app here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- DPD Browser Extension: Pop-out Window&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href="https://chromewebstore.google.com/detail/digital-p%C4%81%E1%B8%B7i-dictionary/hcbcholkdooblegdipdaicdknhmbpbna?authuser=0&amp;amp;hl=en"&gt;Chrome&lt;/a&gt; and &lt;a href="https://addons.mozilla.org/en-US/firefox/addon/digital-p%C4%81%E1%B8%B7i-dictionary/"&gt;Firefox&lt;/a&gt; extension can now be &lt;strong&gt;popped out into its own window&lt;/strong&gt;, so you can keep the dictionary open on a second monitor, or beside the text you are reading, rather than squeezed into a side panel. Open it once and it follows you as you move between pages on the same site. To turn it on, just click the icon. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" src="https://docs.dpdict.net/pics/newsletters/cfc409b522d4.jpg" /&gt;&lt;br /&gt;
+&lt;strong&gt;- Side-by-Side Pāḷi Texts and English Translations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I would like to draw your attention to &lt;a href="https://s.4nt.org/"&gt;s.4nt.org&lt;/a&gt;, a new website for reading Pāḷi and translations. It displays &lt;strong&gt;up to six translations of a sutta side by side&lt;/strong&gt;, line by line against the Pāḷi, which makes comparing renderings of a difficult passage remarkably straightforward.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" src="https://docs.dpdict.net/pics/newsletters/055d6c99f31c.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Another very useful feature, which scholars will appreciate, is the ability to see different Pāḷi source texts side by side. Here are SuttaCentral, Chaṭṭha Saṅgāyana, Thai, and Sri Lankan texts lined up for easy reference.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" src="https://docs.dpdict.net/pics/newsletters/983c769bb4d2.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;The DPD browser extension for &lt;a href="https://chromewebstore.google.com/detail/digital-p%C4%81%E1%B8%B7i-dictionary/hcbcholkdooblegdipdaicdknhmbpbna?authuser=0&amp;amp;hl=en"&gt;Chrome&lt;/a&gt; and &lt;a href="https://addons.mozilla.org/en-US/firefox/addon/digital-p%C4%81%E1%B8%B7i-dictionary/"&gt;Firefox&lt;/a&gt; now works on the &lt;a href="https://s.4nt.org/"&gt;s.4nt.org&lt;/a&gt; site, so you can double-click any Pāḷi word for its meaning and grammar while you read. &lt;/p&gt;
+&lt;p&gt;Also, a link in the DPD &lt;strong&gt;sutta tab&lt;/strong&gt; allows you to open any discourse directly on &lt;a href="https://s.4nt.org/"&gt;s.4nt.org&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" src="https://docs.dpdict.net/pics/newsletters/4e4cf3b3d2f6.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" src="https://docs.dpdict.net/pics/newsletters/38dec4f8be4b.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Much appreciation to Frank in the US for creating this great resource.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;- Corrections and Additions&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;As always, thank you for the abundant dictionary feedback over the past month. There have been many submissions from regular contributors as well as a host of new ones. All your suggestions make the dictionary better for everyone who uses it.&lt;/p&gt;
+&lt;p&gt;As always, thank you for the abundant dictionary feedback over the past two months. Every correction, however small, makes the dictionary better for everyone who uses it. Please do keep them coming.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Latest Release&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With that, I am very pleased to share today's release with you. Download the latest version of DPD for your device using these links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.dpdict.net/"&gt;DPD online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://digitalpalidictionary.github.io/install/dpd_app/"&gt;DPD Android app (beta testing)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-goldendict.zip"&gt;DPD for GoldenDict&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-mdict.zip"&gt;DPD for MDict and DictTango&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-apple.dictionary.zip"&gt;DPD Apple dictionary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kindle.mobi"&gt;DPD for Kindle (mobi)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kindle.epub"&gt;DPD for Kindle (epub)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kobo.zip"&gt;DPD for Kobo eReader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-anki.apkg"&gt;DPD Anki Pack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-pdf.zip"&gt;DPD PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-txt.zip"&gt;DPD txt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-slob.zip"&gt;DPD Aard2 slob&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd.db.tar.xz"&gt;DPD database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-mobile-db.zip"&gt;DPD mobile database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please share this information with those who might be interested.&lt;/p&gt;
+&lt;p&gt;I wish all the monastics a fruitful rains retreat.&lt;/p&gt;
+&lt;p&gt;With much &lt;em&gt;mettā&lt;/em&gt;,&lt;/p&gt;
+&lt;p&gt;Bodhirasa&lt;/p&gt;
+&lt;hr /&gt;</description>
+    </item>
+    <item>
+      <title>Digital Pāḷi Dictionary update (31 May 2026)</title>
+      <link>https://docs.dpdict.net/newsletters/#2026-06-01</link>
+      <guid isPermaLink="true">https://docs.dpdict.net/newsletters/#2026-06-01</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Digital Pāḷi Dictionary update (31 May 2026)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dear Venerable monastics, professors, and Pāḷi enthusiasts,&lt;/p&gt;
+&lt;p&gt;There are a few interesting updates to the dictionary this month.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Aṅguttara Nikāya 1 &amp;amp; 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;first two nipātas of the Aṅguttara Nikāya&lt;/strong&gt; now have complete information in the dictionary. While you are reading these texts, please let me know if you come across any sense of a word that is not recorded in the dictionary.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- DPD Anki pack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anki is the most popular software for spaced-repetition learning. Think of it like a pack of flashcards, with ever-increasing duration until next you see the card. I have personally used Anki since the very beginning of my Pāḷi studies, and still do about 50 to 100 cards every day. I cannot recommend it highly enough for memorizing large bodies of information without resorting to parrot repetition. &lt;/p&gt;
+&lt;p&gt;DPD is now available as an &lt;strong&gt;Anki pack&lt;/strong&gt;, including all 48 000+ words with complete information, marked with a ✔ in the dictionary. The words are sorted by frequency in the Sutta and Vinaya texts, so the deck starts with well-known words and grows progressively harder. There will be monthly updates, so you will always have the latest information available to you.&lt;/p&gt;
+&lt;p&gt;For more information, please refer to &lt;a href="https://digitalpalidictionary.github.io/install/anki/"&gt;this page in the docs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Phonetic Variants&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This one is for the language specialists. All &lt;strong&gt;phonetic variants of a Pāḷi word&lt;/strong&gt; are now accessible from the Grammar tab. For example in the entry for &lt;em&gt;byūha&lt;/em&gt; you will find:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" src="https://docs.dpdict.net/pics/newsletters/d9fdfd5353b9.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;More than 10 000 phonetic variants are now listed in DPD, making it easy to cross-reference different spellings of the same underlying word.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Tipitaka.org&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The home of the Chaṭṭha Saṅgāyana Tipiṭaka, &lt;a href="https://tipitaka.org/romn/"&gt;tipitaka.org&lt;/a&gt;, has integrated DPD. It works in a variety of scripts, including &lt;a href="https://tipitaka.org/deva/#67"&gt;Devanagari&lt;/a&gt;, &lt;a href="https://tipitaka.org/knda/#67"&gt;Kannada&lt;/a&gt;, &lt;a href="https://tipitaka.org/mlym/#67"&gt;Malayalam&lt;/a&gt;, &lt;a href="https://tipitaka.org/telu/#67"&gt;Telugu&lt;/a&gt; and many more. Simply &lt;strong&gt;double click&lt;/strong&gt; on a word to access the dictionary.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- DPD Android app — beta testing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for all the feedback on the &lt;strong&gt;DPD Android app&lt;/strong&gt;. The latest version is much improved as a result of your suggestions. New features include other Pāḷi and Sanskrit dictionaries, new colour themes, a new home screen, and numerous quality-of-life improvements for daily users. If you have already installed the app, it should update automatically. If you haven't, find out how to &lt;a href="https://digitalpalidictionary.github.io/install/dpd_app/"&gt;download and install the app here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- RSS Feed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For the old school computer nerds, an &lt;strong&gt;RSS feed&lt;/strong&gt; of this newsletter is &lt;a href="https://digitalpalidictionary.github.io/rss.xml"&gt;now available&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Corrections and Additions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As always, thank you for the abundant dictionary feedback over the past month. The feedback ranges from typos and consistency errors through to ancient Indian culture, meditation terminology, and the evolution of Buddhist ideas over time. All your suggestions make the dictionary better for everyone who uses it.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;- Latest release&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;With that, I am very pleased to share today's release with you. Download the latest version of DPD for your device using these links:&lt;/p&gt;
 &lt;ul&gt;
@@ -43,6 +111,7 @@
 &lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kindle.mobi"&gt;DPD for Kindle (mobi)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kindle.epub"&gt;DPD for Kindle (epub)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kobo.zip"&gt;DPD for Kobo eReader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-anki.apkg"&gt;DPD Anki Pack&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-pdf.zip"&gt;DPD PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-txt.zip"&gt;DPD txt&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-slob.zip"&gt;DPD slob&lt;/a&gt;&lt;/li&gt;
@@ -50,7 +119,56 @@
 &lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-mobile-db.zip"&gt;DPD mobile database&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please share this information with those who might be interested.&lt;/p&gt;
-&lt;p&gt;Wishing you well from Sri Lanka,&lt;/p&gt;
+&lt;p&gt;Wishing an auspicious Vesak Full Moon from Sri Lanka&lt;/p&gt;
+&lt;p&gt;Bodhirasa&lt;/p&gt;
+&lt;hr /&gt;</description>
+    </item>
+    <item>
+      <title>Digital Pāḷi Dictionary update (31 May 2026)</title>
+      <link>https://docs.dpdict.net/newsletters/#2026-05-31</link>
+      <guid isPermaLink="true">https://docs.dpdict.net/newsletters/#2026-05-31</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Digital Pāḷi Dictionary update (31 May 2026)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dear Venerable monastics, professors, and Pāḷi enthusiasts,&lt;/p&gt;
+&lt;p&gt;There are a few interesting updates to the dictionary this month.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Aṅguttara Nikāya 1 &amp;amp; 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;first two nipātas of the Aṅguttara Nikāya&lt;/strong&gt; now have complete information in the dictionary. While you are reading these texts, please let me know if you come across any sense of a word that is not recorded in the dictionary.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- DPD Anki pack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anki is the most popular software for spaced-repetition learning. Think of it like a pack of flashcards, with ever-increasing duration until next you see the card. I have personally used Anki since the very beginning of my Pāḷi studies, and still do about 50 to 100 cards every day. I cannot recommend it highly enough for memorizing large bodies of information without resorting to parrot repetition. &lt;/p&gt;
+&lt;p&gt;DPD is now available as an &lt;strong&gt;Anki pack&lt;/strong&gt;, including all 48 000+ words with complete information, marked with a ✔ in the dictionary. The words are sorted by frequency in the Sutta and Vinaya texts, so the deck starts with well-known words and grows progressively harder. There will be monthly updates, so you will always have the latest information available to you.&lt;/p&gt;
+&lt;p&gt;For more information, please refer to &lt;a href="https://digitalpalidictionary.github.io/install/anki/"&gt;this page in the docs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Phonetic Variants&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This one is for the language specialists. All &lt;strong&gt;phonetic variants of a Pāḷi word&lt;/strong&gt; are now accessible from the Grammar tab. For example in the entry for &lt;em&gt;byūha&lt;/em&gt; you will find:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" src="https://docs.dpdict.net/pics/newsletters/d9fdfd5353b9.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;More than 10 000 phonetic variants are now listed in DPD, making it easy to cross-reference different spellings of the same underlying word.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Tipitaka.org&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The home of the Chaṭṭha Saṅgāyana Tipiṭaka, &lt;a href="https://tipitaka.org/romn/"&gt;tipitaka.org&lt;/a&gt;, has integrated DPD. It works in a variety of scripts, including &lt;a href="https://tipitaka.org/deva/#67"&gt;Devanagari&lt;/a&gt;, &lt;a href="https://tipitaka.org/knda/#67"&gt;Kannada&lt;/a&gt;, &lt;a href="https://tipitaka.org/mlym/#67"&gt;Malayalam&lt;/a&gt;, &lt;a href="https://tipitaka.org/telu/#67"&gt;Telugu&lt;/a&gt; and many more. Simply &lt;strong&gt;double click&lt;/strong&gt; on a word to access the dictionary.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- DPD Android app — beta testing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for all the feedback on the &lt;strong&gt;DPD Android app&lt;/strong&gt;. The latest version is much improved as a result of your suggestions. New features include other Pāḷi and Sanskrit dictionaries, new colour themes, a new home screen, and numerous quality-of-life improvements for daily users. If you have already installed the app, it should update automatically. If you haven't, find out how to &lt;a href="https://digitalpalidictionary.github.io/install/dpd_app/"&gt;download and install the app here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- RSS Feed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For the old school computer nerds, an &lt;strong&gt;RSS feed&lt;/strong&gt; of this newsletter is &lt;a href="https://digitalpalidictionary.github.io/rss.xml"&gt;now available&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Corrections and Additions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As always, thank you for the abundant dictionary feedback over the past month. The feedback ranges from typos and consistency errors through to ancient Indian culture, meditation terminology, and the evolution of Buddhist ideas over time. All your suggestions make the dictionary better for everyone who uses it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Latest release&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With that, I am very pleased to share today's release with you. Download the latest version of DPD for your device using these links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.dpdict.net/"&gt;DPD online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://digitalpalidictionary.github.io/install/dpd_app/"&gt;DPD Android app (beta testing)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-goldendict.zip"&gt;DPD for GoldenDict&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-mdict.zip"&gt;DPD for MDict and DictTango&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-apple.dictionary.zip"&gt;DPD Apple dictionary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kindle.mobi"&gt;DPD for Kindle (mobi)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kindle.epub"&gt;DPD for Kindle (epub)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kobo.zip"&gt;DPD for Kobo eReader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-anki.apkg"&gt;DPD Anki Pack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-pdf.zip"&gt;DPD PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-txt.zip"&gt;DPD txt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-slob.zip"&gt;DPD slob&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd.db.tar.bz2"&gt;DPD database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-mobile-db.zip"&gt;DPD mobile database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please share this information with those who might be interested.&lt;/p&gt;
+&lt;p&gt;Wishing an auspicious Vesak Full Moon from Sri Lanka&lt;/p&gt;
 &lt;p&gt;Bodhirasa&lt;/p&gt;
 &lt;hr /&gt;</description>
     </item>
