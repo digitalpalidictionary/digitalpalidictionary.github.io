@@ -2711,6 +2711,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#citation-permalink" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Citation Permalink
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -2897,6 +2908,17 @@
     <span class="md-ellipsis">
       
         Bold Definitions Page
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#citation-permalink" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Citation Permalink
       
     </span>
   </a>
@@ -3104,6 +3126,17 @@
 <li><strong>Description:</strong> Renders the landing page for Bold Definitions search.</li>
 <li><strong>Parameters:</strong> None</li>
 <li><strong>Response:</strong> HTML (<code>home.html</code>)</li>
+</ul>
+<h3 id="citation-permalink">Citation Permalink</h3>
+<ul>
+<li><strong>URL:</strong> <code>/{headword_id}</code></li>
+<li><strong>Method:</strong> <code>GET</code></li>
+<li><strong>Description:</strong> The permanent link to one entry, eg <code>/24043</code>, used in citations. Redirects to the entry's search page. The path only matches digits, so no named route can fall into it.</li>
+<li><strong>Parameters:</strong><ul>
+<li><code>headword_id</code> (path parameter): The headword id. Ids are never reused.</li>
+</ul>
+</li>
+<li><strong>Response:</strong> <code>308 Permanent Redirect</code> to <code>/?q={headword_id}</code></li>
 </ul>
 <h2 id="search-endpoints">Search Endpoints</h2>
 <h3 id="html-search">HTML Search</h3>
