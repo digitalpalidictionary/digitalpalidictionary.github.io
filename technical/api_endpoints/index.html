@@ -2735,6 +2735,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Licensing">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#busy-answers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Busy answers
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -2937,6 +2954,23 @@
       
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Licensing">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#busy-answers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Busy answers
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -3169,6 +3203,8 @@
 </span></code></pre></div>
 <p><code>/search_json</code> additionally ends its response body with a <code>license</code> object.</p>
 <p>The rendered entries themselves end with a small visible notice — the four Creative Commons marks (inlined SVG, so they survive offline in GoldenDict) followed by <code>Digital Pāḷi Dictionary CC BY-NC-SA 4.0</code>, linking to the deed. It is appended to the results HTML rather than to a page footer, so it travels with the data into GoldenDict, the JSON <code>dpd_html</code> field and any third-party embed of the fragment. A "no results" page carries no notice.</p>
+<h3 id="busy-answers">Busy answers</h3>
+<p><code>/search_json</code>, <code>/search_html</code> and <code>/gd</code> take turns: two lookups run at a time and up to 20 more wait for up to 20 seconds. Anyone beyond that, or still waiting after 20 seconds, gets HTTP <code>503</code> with a <code>Retry-After: 10</code> header, the same cross-origin and licence <code>Link</code> headers as a normal answer and the text "The server is busy. Try again in a moment." <code>/search_json</code> keeps its normal shape (<code>summary_html</code> empty, the text in <code>dpd_html</code>, plus <code>license</code>), so the web page shows the message. <code>/bd_search</code> and <code>/tt_search</code> have their own turn-taking, described under each. Only <code>GET</code> requests take turns: a browser's cross-origin preflight (<code>OPTIONS</code>) is answered at once. Other routes such as <code>/status</code> and <code>/audio/{headword}</code> are never held up.</p>
 <p>Tipiṭaka translations (<code>/tt_search</code>), bold definitions (<code>/bd_search</code>) and audio (<code>/audio/{headword}</code>) are licensed separately and carry none of the above.</p>
 <h2 id="web-pages">Web Pages</h2>
 <h3 id="home-page">Home Page</h3>
@@ -3255,6 +3291,7 @@
 <li><code>option</code> (str): Search option/mode.</li>
 </ul>
 </li>
+<li><strong>Limits:</strong> At most 100 results are shown. When more exist the page says "100+ results found". The regex search has the same time budget, pattern rules and turn-taking as <code>/tt_search</code>. When a search is stopped the page shows the same message in place of the result count.</li>
 <li><strong>Response:</strong> HTML (<code>bold_definitions.html</code> with results)</li>
 </ul>
 <h3 id="tipitaka-translations-search">Tipiṭaka Translations Search</h3>
@@ -3266,6 +3303,14 @@
 <li><code>q</code> (str): Search query.</li>
 <li><code>book</code> (str): Specific book to search in, or "all".</li>
 <li><code>lang</code> (str): Language/Column to search ("Pāḷi" or others).</li>
+</ul>
+</li>
+<li><strong>Limits:</strong><ul>
+<li><code>q</code> is stripped. An empty <code>q</code> returns <code>{"total": 0, "results": []}</code> without searching.</li>
+<li>Repeated books in <code>book</code> are searched once.</li>
+<li>At most 100 results are returned. The server stops reading at 101 matches, so <code>total</code> is the number found up to 101: <code>101</code> means "more than 100", not an exact count.</li>
+<li>Each request has a budget of 4 seconds of the search's own CPU time for the regex search (waiting for a turn does not use it), with a 20 second wall-clock backstop.</li>
+<li><code>q</code> is a regular expression, case-sensitive. A pattern over 2000 characters, with very large repeat counts such as <code>(?:a{3000}){3000}</code>, or using recursion (<code>(?R)</code>, <code>(?1)</code>) is refused as too complex. An invalid pattern is refused as not valid. Regex searches take turns: one runs at a time, up to three more wait their turn for up to 10 seconds, and anyone beyond that is told the server is busy.</li>
 </ul>
 </li>
 <li><strong>Response:</strong> JSON
@@ -3281,6 +3326,13 @@
 </span><span id="__span-2-10"><a id="__codelineno-2-10" name="__codelineno-2-10" href="#__codelineno-2-10"></a><span class="w">        </span><span class="p">}</span>
 </span><span id="__span-2-11"><a id="__codelineno-2-11" name="__codelineno-2-11" href="#__codelineno-2-11"></a><span class="w">    </span><span class="p">]</span>
 </span><span id="__span-2-12"><a id="__codelineno-2-12" name="__codelineno-2-12" href="#__codelineno-2-12"></a><span class="p">}</span>
+</span></code></pre></div>
+    If the search is stopped, <code>results</code> is empty and an <code>error</code> text is added. The text is one of: "The search took too long. Use a more specific search.", "That search pattern is not valid.", "That search pattern is too complex. Use a simpler pattern.", "The server is busy. Try again in a moment."
+    <div class="language-json highlight"><pre><span></span><code><span id="__span-3-1"><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="p">{</span>
+</span><span id="__span-3-2"><a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a><span class="w">    </span><span class="nt">&quot;total&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span>
+</span><span id="__span-3-3"><a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a><span class="w">    </span><span class="nt">&quot;results&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[],</span>
+</span><span id="__span-3-4"><a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a><span class="w">    </span><span class="nt">&quot;error&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;The search took too long. Use a more specific search.&quot;</span>
+</span><span id="__span-3-5"><a id="__codelineno-3-5" name="__codelineno-3-5" href="#__codelineno-3-5"></a><span class="p">}</span>
 </span></code></pre></div></li>
 </ul>
 <h2 id="resources">Resources</h2>
