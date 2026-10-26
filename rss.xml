@@ -6,8 +6,62 @@
     <description>Monthly updates from the Digital Pāḷi Dictionary.</description>
     <language>en</language>
     <managingEditor>dpd@4nt.org (Bodhirasa Bhikkhu)</managingEditor>
-    <lastBuildDate>Mon, 26 Oct 2026 04:52:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:56:57 GMT</lastBuildDate>
     <atom:link href="https://docs.dpdict.net/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Pāḷi Dictionary update — October 2026</title>
+      <link>https://docs.dpdict.net/newsletters/#2026-10-26</link>
+      <guid isPermaLink="true">https://docs.dpdict.net/newsletters/#2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Digital Pāḷi Dictionary update — October 2026&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dear Venerable monastics, professors, and Pāḷi enthusiasts,&lt;/p&gt;
+&lt;p&gt;There have been a number of interesting updates to the dictionary over the past few months.&lt;/p&gt;
+&lt;h3&gt;ePitaka&lt;/h3&gt;
+&lt;p&gt;I'm pleased to be able to publicly share the &lt;strong&gt;ePitaka app&lt;/strong&gt; with you. I've been using this app for some time for my everyday Pāḷi reading, text searches, and dictionary research. &lt;/p&gt;
+&lt;p&gt;It is the first app to bring together Pāḷi texts, complete translations, the full DPD database, and popular Pāḷi and Sanskrit dictionaries: PTS, CPD, DPPN, MW, BHS, etc. &lt;/p&gt;
+&lt;p&gt;It works seamlessly on the laptop ... &lt;/p&gt;
+&lt;p&gt;&lt;img alt="epitaka-app" src="https://docs.dpdict.net/pics/newsletters/2026-10/epitaka-app.jpg" width="520" /&gt;&lt;/p&gt;
+&lt;p&gt;... and on the phone.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="epitaka-android" src="https://docs.dpdict.net/pics/newsletters/2026-10/epitaka-android.png" width="265" /&gt;&lt;/p&gt;
+&lt;p&gt;It also includes translations of the full Chaṭṭha Saṅgāyana Tipiṭaka in 22 languages. Currently you can read in: Bengali, Chinese, Czech, English, French, German, Hindi, Indonesian, Japanese, Khmer, Korean, Lao, Marathi, Myanmar, Myanmar Nissaya, Nepali, Portuguese, Russian, Sinhala, Spanish, Tamil, Thai, and Vietnamese, with more languages on the way.&lt;/p&gt;
+&lt;p&gt;Please click &lt;a href="https://digitalpalidictionary.github.io/integrations/epitaka/"&gt;here&lt;/a&gt; for more information on its features and installation instructions.&lt;/p&gt;
+&lt;p&gt;Give it a try, I'm sure you'll find that it is a powerful upgrade to whatever app you are currently using. &lt;/p&gt;
+&lt;h3&gt;DPD for KOReader&lt;/h3&gt;
+&lt;p&gt;There is also good news for e-reader users: DPD now runs inside &lt;a href="https://digitalpalidictionary.github.io/install/koreader/"&gt;KOReader&lt;/a&gt;, an open-source reading app for Kindle, Kobo, PocketBook and many other devices. &lt;/p&gt;
+&lt;p&gt;This is a full-featured version of DPD, and works completely offline, on the device. It is the perfect tool for forest monks.&lt;/p&gt;
+&lt;p&gt;A special thanks goes to Ven. Nirodhavihārī in Sri Lanka, who created this plugin. You can find out how to &lt;a href="https://digitalpalidictionary.github.io/install/koreader/"&gt;install it here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Contributing to DPD&lt;/h3&gt;
+&lt;p&gt;Thank you for all the very generous offers made to DPD in the past. I sincerely apologise to anyone whose offer was not properly followed up. There is now a new &lt;strong&gt;system&lt;/strong&gt; to keep track of every offer to contribute, whether it be Pāḷi knowledge, coding skills, or material resources. Please &lt;a href="https://digitalpalidictionary.github.io/contributing/"&gt;click here to log your support&lt;/a&gt; or fill in this &lt;a href="https://forms.gle/Z7ENe8CVFpe2yQqKA"&gt;Google Form&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Buddhist Wiki&lt;/h3&gt;
+&lt;p&gt;There is a useful new addition to the other dictionaries family: &lt;strong&gt;Buddhist Wiki&lt;/strong&gt;, a collection of articles on Buddhism from English Wikipedia (licence CC BY-SA 4.0). I started with the major articles on Buddhism and followed the category tree five levels down, to cover the topic in depth. You can &lt;a href="https://digitalpalidictionary.github.io/other_dicts/"&gt;download it here&lt;/a&gt; for GoldenDict and MDict. &lt;/p&gt;
+&lt;h3&gt;How to Cite DPD&lt;/h3&gt;
+&lt;p&gt;Many of you have asked how to cite DPD in academic writing, so there is now &lt;a href="https://digitalpalidictionary.github.io/how_to_cite/"&gt;a docs page explaining exactly that&lt;/a&gt;. Every new DPD release is also archived on &lt;a href="https://doi.org/10.5281/zenodo.22979413"&gt;Zenodo&lt;/a&gt; and given its own &lt;strong&gt;DOI&lt;/strong&gt; (a permanent, citable identifier), so each version can be traced and referenced.&lt;/p&gt;
+&lt;h3&gt;Corrections and Additions&lt;/h3&gt;
+&lt;p&gt;As always, thank you for the abundant dictionary &lt;strong&gt;feedback&lt;/strong&gt; over the past few months. Every correction, however small, makes the dictionary better for everyone who uses it. Please do keep them coming! Hundreds of precise, critical improvements have been added thanks to your feedback. &lt;/p&gt;
+&lt;h3&gt;Latest Release&lt;/h3&gt;
+&lt;p&gt;With that, I am very happy to share today's &lt;strong&gt;release&lt;/strong&gt; with you. Download the latest version of DPD for your device using these links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.dpdict.net/"&gt;DPD online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://digitalpalidictionary.github.io/install/dpd_app/"&gt;DPD Android app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-goldendict.zip"&gt;DPD for GoldenDict&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-mdict.zip"&gt;DPD for MDict and DictTango&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-apple.dictionary.zip"&gt;DPD Apple dictionary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kindle.mobi"&gt;DPD for Kindle (mobi)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kindle.epub"&gt;DPD for Kindle (epub)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-kobo.zip"&gt;DPD for Kobo eReader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-anki.apkg"&gt;DPD Anki Pack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-pdf.zip"&gt;DPD PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-txt.zip"&gt;DPD txt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-slob.zip"&gt;DPD Aard2 slob&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd.db.tar.xz"&gt;DPD database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/digitalpalidictionary/dpd-db/releases/latest/download/dpd-mobile-db.zip"&gt;DPD mobile database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please share this information with those who might be interested.&lt;/p&gt;
+&lt;p&gt;Wishing you well with your Pāḷi studies and meditation practice.&lt;/p&gt;
+&lt;p&gt;With &lt;em&gt;mettā&lt;/em&gt; from India,&lt;/p&gt;
+&lt;p&gt;Bodhirasa&lt;/p&gt;
+&lt;hr /&gt;</description>
+    </item>
     <item>
       <title>Digital Pāḷi Dictionary update (July 2026)</title>
       <link>https://docs.dpdict.net/newsletters/#2026-07-29</link>
