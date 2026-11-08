@@ -3344,6 +3344,7 @@
 <li><strong>Description:</strong> Main search route for the website's dynamic search functionality. Returns the rendered HTML fragments for the results and summary.</li>
 <li><strong>Parameters:</strong><ul>
 <li><code>q</code> (str): The search query.</li>
+<li><code>lazy</code> (bool, optional): used by the webapp. Hidden panels come empty in <code>dpd_html</code>, with their contents in a <code>panels</code> map keyed by panel id. Other callers can leave it out and get the full HTML.</li>
 </ul>
 </li>
 <li><strong>Response:</strong> JSON
