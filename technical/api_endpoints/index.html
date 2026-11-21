@@ -1267,6 +1267,8 @@
       
         
       
+        
+      
     
     
     
@@ -1443,6 +1445,34 @@
     
   
     CST Bold Definitions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webapp/database_query/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Database Query
   
 
     
@@ -2990,6 +3020,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#database-query-search" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Database Query Search
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -3210,6 +3251,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#database-query-search" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Database Query Search
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -3317,13 +3369,13 @@
 <p>All API endpoints can be tested here <a href="https://www.dpdict.net/docs">https://www.dpdict.net/docs</a></p>
 <h2 id="licensing">Licensing</h2>
 <p>DPD dictionary data is released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> — attribution required, non-commercial use only, derivatives shared alike.</p>
-<p>Every endpoint that returns dictionary data (<code>/search_json</code>, <code>/search_html</code>, <code>/gd</code>) sends the licence as an RFC 8288 link header:</p>
+<p>Every endpoint that returns dictionary data (<code>/search_json</code>, <code>/search_html</code>, <code>/gd</code>, <code>/dq_search</code>) sends the licence as an RFC 8288 link header:</p>
 <div class="language-text highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>Link: &lt;https://creativecommons.org/licenses/by-nc-sa/4.0/&gt;; rel=&quot;license&quot;; title=&quot;CC BY-NC-SA 4.0&quot;
 </span></code></pre></div>
-<p><code>/search_json</code> additionally ends its response body with a <code>license</code> object.</p>
+<p><code>/search_json</code> and <code>/dq_search</code> also end their response body with a <code>license</code> object.</p>
 <p>The rendered entries themselves end with a small visible notice — the four Creative Commons marks (inlined SVG, so they survive offline in GoldenDict) followed by <code>Digital Pāḷi Dictionary CC BY-NC-SA 4.0</code>, linking to the deed. It is appended to the results HTML rather than to a page footer, so it travels with the data into GoldenDict, the JSON <code>dpd_html</code> field and any third-party embed of the fragment. A "no results" page carries no notice.</p>
 <h3 id="busy-answers">Busy answers</h3>
-<p><code>/search_json</code>, <code>/search_html</code> and <code>/gd</code> take turns: two lookups run at a time and up to 20 more wait for up to 20 seconds. Anyone beyond that, or still waiting after 20 seconds, gets HTTP <code>503</code> with a <code>Retry-After: 10</code> header, the same cross-origin and licence <code>Link</code> headers as a normal answer and the text "The server is busy. Try again in a moment." <code>/search_json</code> keeps its normal shape (<code>summary_html</code> empty, the text in <code>dpd_html</code>, plus <code>license</code>), so the web page shows the message. <code>/bd_search</code> and <code>/tt_search</code> have their own turn-taking, described under each. Only <code>GET</code> requests take turns: a browser's cross-origin preflight (<code>OPTIONS</code>) is answered at once. Other routes such as <code>/status</code> and <code>/audio/{headword}</code> are never held up.</p>
+<p><code>/search_json</code>, <code>/search_html</code> and <code>/gd</code> take turns: two lookups run at a time and up to 20 more wait for up to 20 seconds. Anyone beyond that, or still waiting after 20 seconds, gets HTTP <code>503</code> with a <code>Retry-After: 10</code> header, the same cross-origin and licence <code>Link</code> headers as a normal answer and the text "The server is busy. Try again in a moment." <code>/search_json</code> keeps its normal shape (<code>summary_html</code> empty, the text in <code>dpd_html</code>, plus <code>license</code>), so the web page shows the message. <code>/bd_search</code>, <code>/tt_search</code> and <code>/dq_search</code> have their own turn-taking, described under each. Only <code>GET</code> requests take turns: a browser's cross-origin preflight (<code>OPTIONS</code>) is answered at once. Other routes such as <code>/status</code> and <code>/audio/{headword}</code> are never held up.</p>
 <p>Tipiṭaka translations (<code>/tt_search</code>), bold definitions (<code>/bd_search</code>) and audio (<code>/audio/{headword}</code>) are licensed separately and carry none of the above.</p>
 <h2 id="web-pages">Web Pages</h2>
 <h3 id="home-page">Home Page</h3>
@@ -3454,6 +3506,34 @@
 </span><span id="__span-3-4"><a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a><span class="w">    </span><span class="nt">&quot;error&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;The search took too long. Use a more specific search.&quot;</span>
 </span><span id="__span-3-5"><a id="__codelineno-3-5" name="__codelineno-3-5" href="#__codelineno-3-5"></a><span class="p">}</span>
 </span></code></pre></div></li>
+</ul>
+<h3 id="database-query-search">Database Query Search</h3>
+<ul>
+<li><strong>URL:</strong> <code>/dq_search</code></li>
+<li><strong>Method:</strong> <code>GET</code></li>
+<li><strong>Description:</strong> Finds headwords by the contents of their <code>DpdHeadword</code> fields. Used by the Database Query tab (<code>/?tab=dq</code>).</li>
+<li><strong>Parameters:</strong><ul>
+<li><code>field</code>, <code>search</code>, <code>value</code>, <code>logic</code> (repeated, one of each per filter): the field name, the search type (<code>contains</code>, <code>starts_with</code>, <code>ends_with</code> or <code>regex</code>), the value, and how the filter joins the one before it (<code>and</code> or <code>or</code>). Filters are ANDed, and an <code>or</code> starts a new group, so <code>a and b or c</code> means <code>(a and b) or (c)</code>. A filter with an empty value is skipped.</li>
+<li><code>columns</code> (str): comma-separated field names to return. Empty returns <code>id</code>, <code>pos</code>, <code>grammar</code>, <code>lemma_1</code>, <code>meaning_1</code>, <code>meaning_lit</code>, <code>meaning_2</code>, <code>construction</code>.</li>
+<li><code>limit</code> (int): rows to return, from 1 to 100 (default 100).</li>
+</ul>
+</li>
+<li><strong>Limits:</strong><ul>
+<li>At most 10 filters.</li>
+<li>Every search type runs as a case-sensitive regular expression. Numbers and dates are matched as text. An empty field never matches.</li>
+<li>Rows come back in <code>id</code> order. <code>more</code> is <code>true</code> when there are more than <code>limit</code> matches.</li>
+<li>The regex search has the same time budget, pattern rules and turn-taking as <code>/tt_search</code>.</li>
+</ul>
+</li>
+<li><strong>Response:</strong> JSON
+    <div class="language-json highlight"><pre><span></span><code><span id="__span-4-1"><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="p">{</span>
+</span><span id="__span-4-2"><a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a><span class="w">    </span><span class="nt">&quot;columns&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;id&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;lemma_1&quot;</span><span class="p">],</span>
+</span><span id="__span-4-3"><a id="__codelineno-4-3" name="__codelineno-4-3" href="#__codelineno-4-3"></a><span class="w">    </span><span class="nt">&quot;rows&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[[</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;a 1.1&quot;</span><span class="p">]],</span>
+</span><span id="__span-4-4"><a id="__codelineno-4-4" name="__codelineno-4-4" href="#__codelineno-4-4"></a><span class="w">    </span><span class="nt">&quot;more&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span>
+</span><span id="__span-4-5"><a id="__codelineno-4-5" name="__codelineno-4-5" href="#__codelineno-4-5"></a><span class="w">    </span><span class="nt">&quot;license&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;CC BY-NC-SA 4.0&quot;</span><span class="p">,</span><span class="w"> </span><span class="nt">&quot;...&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;...&quot;</span><span class="p">}</span>
+</span><span id="__span-4-6"><a id="__codelineno-4-6" name="__codelineno-4-6" href="#__codelineno-4-6"></a><span class="p">}</span>
+</span></code></pre></div>
+    The licence <code>Link</code> header is sent too. An unknown field, search type or logic, or more than 10 filters, returns HTTP <code>400</code> with empty <code>rows</code> and an <code>error</code> text such as "Unknown field: rt". A stopped search returns empty <code>rows</code> and one of the <code>/tt_search</code> error texts.</li>
 </ul>
 <h2 id="resources">Resources</h2>
 <h3 id="audio">Audio</h3>
