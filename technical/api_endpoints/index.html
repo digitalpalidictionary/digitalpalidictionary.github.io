@@ -3410,7 +3410,7 @@
 <ul>
 <li><strong>URL:</strong> <code>/search_html</code></li>
 <li><strong>Method:</strong> <code>GET</code></li>
-<li><strong>Description:</strong> Performs a dictionary search and returns the results rendered within the home page template. Used for direct page loads with search results.</li>
+<li><strong>Description:</strong> Performs a dictionary search and returns the results rendered within the home page template. Used for direct page loads with search results. A variants table of 20 rows or more always shows its first 10 rows and a <strong>show all</strong> button.</li>
 <li><strong>Parameters:</strong><ul>
 <li><code>q</code> (str): The search query (Pali word or English term).</li>
 </ul>
@@ -3425,6 +3425,7 @@
 <li><strong>Parameters:</strong><ul>
 <li><code>q</code> (str): The search query.</li>
 <li><code>lazy</code> (bool, optional): used by the webapp. Hidden panels come empty in <code>dpd_html</code>, with their contents in a <code>panels</code> map keyed by panel id. Other callers can leave it out and get the full HTML.</li>
+<li><code>fold</code> (bool, optional): fold a variants table of 20 rows or more to its first 10 rows, with a <strong>show all</strong> button after it. The button needs a click handler in the page, like the one in <code>dpd.js</code>. Other callers can leave it out and get every row.</li>
 </ul>
 </li>
 <li><strong>Response:</strong> JSON
@@ -3444,7 +3445,7 @@
 <ul>
 <li><strong>URL:</strong> <code>/gd</code></li>
 <li><strong>Method:</strong> <code>GET</code></li>
-<li><strong>Description:</strong> Returns a simplified HTML version of the search results, optimized for external dictionary applications like GoldenDict and MDict.</li>
+<li><strong>Description:</strong> Returns a simplified HTML version of the search results, optimized for external dictionary applications like GoldenDict and MDict. A variants table of 20 rows or more always shows its first 10 rows and a <strong>show all</strong> button; the page's own script handles the button.</li>
 <li><strong>Parameters:</strong><ul>
 <li><code>search</code> (str): The search query.</li>
 </ul>
