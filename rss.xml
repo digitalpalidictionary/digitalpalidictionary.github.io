@@ -6,7 +6,7 @@
     <description>Monthly updates from the Digital Pāḷi Dictionary.</description>
     <language>en</language>
     <managingEditor>dpd@4nt.org (Bodhirasa Bhikkhu)</managingEditor>
-    <lastBuildDate>Sun, 22 Nov 2026 04:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:16:52 GMT</lastBuildDate>
     <atom:link href="https://docs.dpdict.net/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Pāḷi Dictionary update — October 2026</title>
@@ -1182,7 +1182,7 @@ Thanks to all the software developers who have offered &lt;strong&gt;coding assi
 &lt;p&gt;A big thank you to Max in Massachusetts who provided access to a cloud server which made this enormous computational task possible.  &lt;/p&gt;
 &lt;p&gt;The only other tool which does a similar job is &lt;a href="https://www.digitalpalireader.online/_dprhtml/index.html?analysis=alamettaavataa&amp;amp;frombox=1"&gt;DPR Analysis&lt;/a&gt;, developed by Ven. Yuttadhammo more than ten years ago. The fact that this is the first real improvement in this domain in a decade is indicative of two things: one, how incredibly forward thinking the Canadian Venerable was in this regard, and two, the enormous complexity of the task involved.  &lt;/p&gt;
 &lt;p&gt;For those of you interested in Computational Linguistics, I am using a dumb, over-generative &lt;a href="https://github.com/digitalpalidictionary/dpd-db/blob/main/sandhi/splitter.py"&gt;recursive algorithm&lt;/a&gt;, the results of which get &lt;a href="https://github.com/digitalpalidictionary/dpd-db/blob/main/sandhi/postprocess.py"&gt;post-processed&lt;/a&gt; to yield the most likely candidates. It is still a work in progress, far from perfect, but in almost all cases it is giving equal or better results than DPR Analysis, so I am happy to release it, with the understanding that it is a work in progress and will certainly get refined over time.  &lt;/p&gt;
-&lt;p&gt;Finally, here's one more gift, a very nicely formatted GoldenDict version of &lt;a href="https://github.com/bdhrs/other-dictionaries-goldendict/blob/main/output/mw.zip"&gt;Monier-Williams Sanskrit-English Dictionary&lt;/a&gt; from 1899 courtesy of (prefers not to be named).  &lt;/p&gt;
+&lt;p&gt;Finally, here's one more gift, a very nicely formatted GoldenDict version of &lt;a href="https://github.com/digitalpalidictionary/other-dictionaries/releases/latest/download/mw-gd.zip"&gt;Monier-Williams Sanskrit-English Dictionary&lt;/a&gt; from 1899 courtesy of (prefers not to be named).  &lt;/p&gt;
 &lt;p&gt;With that, here is today's release. Please use these links to download the latest version.  &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/digitalpalidictionary/digitalpalidictionary/releases/download/2023-04-05/dpd.zip"&gt;DPD for GoldenDict&lt;/a&gt;&lt;br /&gt;
 &lt;a href="https://github.com/digitalpalidictionary/digitalpalidictionary/releases/download/2023-04-05/dpd-mdict.mdx"&gt;DPD for MDict&lt;/a&gt;&lt;br /&gt;
@@ -1260,7 +1260,6 @@ Thanks to all the software developers who have offered &lt;strong&gt;coding assi
 &lt;p&gt;&lt;img alt="word families.png" src="https://docs.dpdict.net/pics/newsletters/28cb91703449.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;So far I have added about 300 families, my data suggests there are another 1500 families which can be added over the coming months.&lt;/p&gt;
 &lt;p&gt;I have started a &lt;a href="https://digitalpalidictionary.github.io/bibliography.html"&gt;bibliography&lt;/a&gt; and a &lt;a href="https://digitalpalidictionary.github.io/thanks.html"&gt;thanks&lt;/a&gt; section which can be found on the website as well as in the dictionary by just searching for "bibliography" and "thanks".&lt;/p&gt;
-&lt;p&gt;Here are a few more useful dictionaries for download in GoldenDict format. Click the link to get the &lt;a href="https://github.com/bdhrs/other-dictionaries-goldendict/blob/main/output/cpd.zip"&gt;Critical Pāli Dictionary&lt;/a&gt; and, for those of you who study Sanskrit, here's a nicely formatted version of &lt;a href="https://github.com/bdhrs/other-dictionaries-goldendict/blob/main/output/whitney.zip"&gt;Whitney's Roots&lt;/a&gt;. Just drop them into your documents/GoldenDict folder.&lt;/p&gt;
 &lt;p&gt;With that, here is your monthly DPD update and links to download the latest version.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/digitalpalidictionary/digitalpalidictionary/releases/download/2023-01-06/dpd-goldendict.zip"&gt;DPD for GoldenDict&lt;/a&gt;&lt;br /&gt;
 &lt;a href="https://github.com/digitalpalidictionary/digitalpalidictionary/releases/download/2023-01-06/dpd-mdict.mdx"&gt;DPD for MDict&lt;/a&gt;&lt;br /&gt;
